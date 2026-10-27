@@ -1,0 +1,21 @@
+name: Verify public release source
+on: workflow_dispatch
+permissions:
+  contents: read
+jobs:
+  probe:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    steps:
+      - name: Read public20MiB source and verify SHA
+        run: |
+          python3 - <<'PY'
+          import urllib.request, hashlib, time
+          start=time.monotonic()
+          request=urllib.request.Request('https://noctis-forest-download-y.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part001',headers={"User-Agent":"Noctis-Public-Delivery-Source-Probe"})
+          with urllib.request.urlopen(request,timeout=120) as response:
+              data=response.read(20971521)
+          assert len(data)==20971520
+          assert hashlib.sha256(data).hexdigest()=='18918e2e8df1dc5d38370bbe23780345495772905673e20b214822c78e0701fc'
+          print({"success":True,"bytes":len(data),"elapsedSeconds":time.monotonic()-start})
+          PY
