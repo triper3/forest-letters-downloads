@@ -1,0 +1,661 @@
+{
+  "repository": "triper3/forest-letters-downloads",
+  "version": "0.5.0",
+  "releaseId": 425663722,
+  "releaseBody": "<!-- noctis-managed-binary-release-v1 -->\n{\"fingerprint\":\"ea5d13baa3e7568c7e9d8a2847512fda989064dc9344ac58890cd81824bd14f4\",\"names\":[\"ForestLetters-Windows-v0.5.0.zip.part001\",\"ForestLetters-Windows-v0.5.0.zip.part002\",\"ForestLetters-Windows-v0.5.0.zip.part003\",\"ForestLetters-Windows-v0.5.0.zip.part004\",\"ForestLetters-Windows-v0.5.0.zip.part005\",\"ForestLetters-Windows-v0.5.0.zip.part006\",\"ForestLetters-Windows-v0.5.0.zip.part007\",\"ForestLetters-Windows-v0.5.0.zip.part008\",\"ForestLetters-Windows-v0.5.0.zip.part009\",\"ForestLetters-Windows-v0.5.0.zip.part010\",\"ForestLetters-Windows-v0.5.0.zip.part011\",\"ForestLetters-Windows-v0.5.0.zip.part012\",\"ForestLetters-Windows-v0.5.0.zip.part013\",\"ForestLetters-Windows-v0.5.0.zip.part014\",\"ForestLetters-Windows-v0.5.0.zip.part015\",\"ForestLetters-Windows-v0.5.0.zip.part016\",\"ForestLetters-Windows-v0.5.0.zip.part017\",\"ForestLetters-Windows-v0.5.0.zip.part018\",\"ForestLetters-Windows-v0.5.0.zip.part019\",\"ForestLetters-Windows-v0.5.0.zip.part020\",\"ForestLetters-Windows-v0.5.0.zip.part021\",\"ForestLetters-Windows-v0.5.0.zip.part022\",\"ForestLetters-Windows-v0.5.0.zip.part023\",\"ForestLetters-Windows-v0.5.0.zip.part024\",\"ForestLetters-Windows-v0.5.0.zip.part025\",\"ForestLetters-Windows-v0.5.0.zip.part026\",\"ForestLetters-Windows-v0.5.0.zip.part027\",\"ForestLetters-Windows-v0.5.0.zip.part028\",\"ForestLetters-Windows-v0.5.0.zip.part029\",\"ForestLetters-Windows-v0.5.0.zip.part030\",\"ForestLetters-Windows-v0.5.0.zip.part031\",\"ForestLetters-Windows-v0.5.0.zip.part032\",\"ForestLetters-Windows-v0.5.0.zip.part033\",\"ForestLetters-Windows-v0.5.0.zip.part034\",\"ForestLetters-Windows-v0.5.0.zip.part035\",\"ForestLetters-Windows-v0.5.0.zip.part036\",\"ForestLetters-Windows-v0.5.0.zip.part037\",\"ForestLetters-Windows-v0.5.0.zip.part038\",\"ForestLetters-Windows-v0.5.0.zip.part039\",\"ForestLetters-Windows-v0.5.0.zip.part040\",\"ForestLetters-Windows-v0.5.0.zip.part041\",\"ForestLetters-Windows-v0.5.0.zip.part042\",\"ForestLetters-Windows-v0.5.0.zip.part043\",\"ForestLetters-Windows-v0.5.0.zip.part044\",\"ForestLetters-Windows-v0.5.0.zip.part045\",\"ForestLetters-Windows-v0.5.0.zip.part046\",\"ForestLetters-Windows-v0.5.0.zip.part047\",\"ForestLetters-Windows-v0.5.0.zip.part048\",\"ForestLetters-Windows-v0.5.0.zip.part049\",\"ForestLetters-Windows-v0.5.0.zip.part050\",\"ForestLetters-Windows-v0.5.0.zip.part051\",\"ForestLetters-Windows-v0.5.0.zip.part052\",\"ForestLetters-Windows-v0.5.0.zip.part053\",\"ForestLetters-Windows-v0.5.0.zip.part054\",\"ForestLetters-Windows-v0.5.0.zip.part055\",\"ForestLetters-Windows-v0.5.0.zip.part056\",\"ForestLetters-Windows-v0.5.0.zip.part057\",\"ForestLetters-Windows-v0.5.0.zip.part058\",\"ForestLetters-Windows-v0.5.0.zip.part059\",\"ForestLetters-Windows-v0.5.0.zip.part060\",\"ForestLetters-Windows-v0.5.0.zip.part061\",\"ForestLetters-Windows-v0.5.0.zip.part062\",\"ForestLetters-Windows-v0.5.0.zip.part063\",\"ForestLetters-Windows-v0.5.0.zip.part064\",\"ForestLetters-Windows-v0.5.0.zip.part065\",\"ForestLetters-Windows-v0.5.0.zip.part066\",\"ForestLetters-Windows-v0.5.0.zip.part067\",\"ForestLetters-Windows-v0.5.0.zip.part068\",\"ForestLetters-Windows-v0.5.0.zip.part069\",\"ForestLetters-Windows-v0.5.0.zip.part070\",\"ForestLetters-Windows-v0.5.0.zip.part071\",\"ForestLetters-Windows-v0.5.0.zip.part072\",\"ForestLetters-Windows-v0.5.0.zip.part073\",\"ForestLetters-Windows-v0.5.0.zip.part074\",\"ForestLetters-Windows-v0.5.0.zip.part075\",\"ForestLetters-Windows-v0.5.0.zip.part076\",\"ForestLetters-Windows-v0.5.0.zip.part077\",\"ForestLetters-Windows-v0.5.0.zip.part078\",\"ForestLetters-Windows-v0.5.0.zip.part079\",\"ForestLetters-Windows-v0.5.0.zip.part080\",\"ForestLetters-Windows-v0.5.0.zip.part081\",\"ForestLetters-Windows-v0.5.0.zip.part082\",\"ForestLetters-Windows-v0.5.0.zip.part083\",\"ForestLetters-Windows-v0.5.0.zip.part084\",\"ForestLetters-Windows-v0.5.0.zip.part085\",\"ForestLetters-Windows-v0.5.0.zip.part086\",\"ForestLetters-Windows-v0.5.0.zip.part087\",\"ForestLetters-Windows-v0.5.0.zip.part088\",\"ForestLetters-Windows-v0.5.0.zip.part089\",\"ForestLetters-Windows-v0.5.0.zip.part090\",\"ForestLetters-Windows-v0.5.0.zip.part091\",\"ForestLetters-Windows-v0.5.0.zip.part092\",\"ForestLetters-Windows-v0.5.0.zip.part093\",\"ForestLetters-Windows-v0.5.0.zip.part094\",\"ForestLetters-Windows-v0.5.0.zip.part095\",\"ForestLetters-Windows-v0.5.0.zip.part096\",\"ForestLetters-Windows-v0.5.0.zip.part097\",\"ForestLetters-Windows-v0.5.0.zip.part098\",\"ForestLetters-Windows-v0.5.0.zip.part099\",\"ForestLetters-Windows-v0.5.0.zip.part100\",\"ForestLetters-Windows-v0.5.0.zip.part101\",\"ForestLetters-Windows-v0.5.0.zip.part102\",\"ForestLetters-Windows-v0.5.0.zip.part103\",\"ForestLetters-Delta-v0.4.0-to-v0.5.0.zip.part099\",\"NoctisLauncherSetup-v0.7.0.exe\",\"delivery-manifest.json\",\"SHA256SUMS.txt\"]}",
+  "gameSHA256": "495dd9d4b85b39b6a3ee965ab75fe4441e1f059857eda5690df1577ac5871b60",
+  "assets": [
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part001",
+      "bytes": 20971520,
+      "sha256": "18918e2e8df1dc5d38370bbe23780345495772905673e20b214822c78e0701fc",
+      "sourceUrl": "https://noctis-forest-download-y.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part001"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part002",
+      "bytes": 20971520,
+      "sha256": "85d96bbcd00e43f10555ad8862babc222147eb35ca78ac76db57204a47e86d38",
+      "sourceUrl": "https://noctis-forest-download-y.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part002"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part003",
+      "bytes": 20971520,
+      "sha256": "340c995e8abf63841fecd3145a3a7bff81b969265ac5e367ede3df0570f393f0",
+      "sourceUrl": "https://noctis-forest-download-y.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part003"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part004",
+      "bytes": 20971520,
+      "sha256": "41cbfa94e0eb8aab12d86443962e4082021b54fe199183383827428a53a5aa6c",
+      "sourceUrl": "https://noctis-forest-download-y.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part004"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part005",
+      "bytes": 20971520,
+      "sha256": "9e47a81bdfe6bbe7914b0a2ee6bac474a0136730c9c6d2b0301406119cb195ba",
+      "sourceUrl": "https://noctis-forest-download-y.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part005"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part006",
+      "bytes": 20971520,
+      "sha256": "9de6094a021b79f49b51ef4eebe12d470d4d14a8a0a42f7890e5b8aa4f96594a",
+      "sourceUrl": "https://noctis-forest-download-y.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part006"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part007",
+      "bytes": 20971520,
+      "sha256": "6eb3aa62058ee03af02b7e38a70638ccdd6e391d086adfcaa8e5c918dba14635",
+      "sourceUrl": "https://noctis-forest-download-y.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part007"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part008",
+      "bytes": 20971520,
+      "sha256": "e9e744348b28f7bc8bbdea55fa673e654df50f8d8a1db647b01591d3d1f80008",
+      "sourceUrl": "https://noctis-forest-download-y.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part008"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part009",
+      "bytes": 20971520,
+      "sha256": "a9de27968dc169b6cdbec057cf8f6bf97bc9d699907e443e6a4084ce8352e0c0",
+      "sourceUrl": "https://noctis-forest-download-y.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part009"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part010",
+      "bytes": 20971520,
+      "sha256": "58497f659e87bb933f2926954f8eb7af8f5eb977e5e3468399975f24160155cb",
+      "sourceUrl": "https://noctis-forest-download-y.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part010"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part011",
+      "bytes": 20971520,
+      "sha256": "a91c4fd503270c26a4c80331ec2a73c7257910a3934ddac12c2f7b1b8b8fbb56",
+      "sourceUrl": "https://noctis-forest-download-y.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part011"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part012",
+      "bytes": 20971520,
+      "sha256": "8260252b8b84f3913553fc938e4a686b0c27054e9a1494cb594812fa82595c53",
+      "sourceUrl": "https://noctis-forest-download-y.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part012"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part013",
+      "bytes": 20971520,
+      "sha256": "767a85e4a68f117d71fc86e028c46353f6f29f9899714f4586e5a0b893139930",
+      "sourceUrl": "https://noctis-forest-download-z.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part013"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part014",
+      "bytes": 20971520,
+      "sha256": "270585a0d13ea59fda21746bad474566ba680382e7bc99062d5f8fbaa1b655c5",
+      "sourceUrl": "https://noctis-forest-download-z.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part014"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part015",
+      "bytes": 20971520,
+      "sha256": "ae8434711a3c921be8db3fe4314ea3d56a508cf7593d4e48b21b0950382e6df2",
+      "sourceUrl": "https://noctis-forest-download-z.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part015"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part016",
+      "bytes": 20971520,
+      "sha256": "54c54cdbf27e61b248ce56a8f7ee60dd40e49f0ffe031bd43c3d8a1d8819bbc6",
+      "sourceUrl": "https://noctis-forest-download-z.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part016"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part017",
+      "bytes": 20971520,
+      "sha256": "17f618d3a384eab4583536aa37b0a99f0ba5a535a0de4c0ecd065998a45dd1de",
+      "sourceUrl": "https://noctis-forest-download-z.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part017"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part018",
+      "bytes": 20971520,
+      "sha256": "0523f75efc7e6c2784815fc5efcf97a6d2f8d7f248cb2bd732204013fd08d18d",
+      "sourceUrl": "https://noctis-forest-download-z.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part018"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part019",
+      "bytes": 20971520,
+      "sha256": "1b9dc3477cd6dbc3b645cd9ff8ce4341acbe7fd2b9300a2ec9cbcda7cab974bb",
+      "sourceUrl": "https://noctis-forest-download-z.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part019"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part020",
+      "bytes": 20971520,
+      "sha256": "88c84ced31862b0b34708bfb4bd5a1d45eaa9d56193e88c48a07f90440e0dad1",
+      "sourceUrl": "https://noctis-forest-download-z.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part020"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part021",
+      "bytes": 20971520,
+      "sha256": "6b16aa01ddb138fc6229495e61f747cf33293103512035c100cd5d4b145db821",
+      "sourceUrl": "https://noctis-forest-download-z.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part021"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part022",
+      "bytes": 20971520,
+      "sha256": "a61d57885b3c36224dffe407d16e841204470f3d800a46513e7bf87cced402b8",
+      "sourceUrl": "https://noctis-forest-download-z.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part022"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part023",
+      "bytes": 20971520,
+      "sha256": "7fd0afc8dff2a7162daef49c2969dc8e07491e669999ee37149dd322ae5e65be",
+      "sourceUrl": "https://noctis-forest-download-z.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part023"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part024",
+      "bytes": 20971520,
+      "sha256": "1a1515da2ed56030448936f5f2542899e8e6bb94609f2cf10a8e838d7f3ce153",
+      "sourceUrl": "https://noctis-forest-download-z.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part024"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part025",
+      "bytes": 20971520,
+      "sha256": "5ed298e64aedcaa7441dc7f8a0958614bc3510e0201b740b079355fc2b74544f",
+      "sourceUrl": "https://noctis-forest-download-aa.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part025"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part026",
+      "bytes": 20971520,
+      "sha256": "aa4f809b028754d8a909b1173dfe4b3f7df78f031ed0b281bef870678014586f",
+      "sourceUrl": "https://noctis-forest-download-aa.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part026"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part027",
+      "bytes": 20971520,
+      "sha256": "9b02f6377a345e9c8328ab667cfc5580ef0cf7c7522d00e12936b99e225b197b",
+      "sourceUrl": "https://noctis-forest-download-aa.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part027"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part028",
+      "bytes": 20971520,
+      "sha256": "0585c1b816803b066fbd40cb6a3eb6c68e593ca869ba74296684c800050aee30",
+      "sourceUrl": "https://noctis-forest-download-aa.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part028"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part029",
+      "bytes": 20971520,
+      "sha256": "5280d96b2e5f2407204637050cd3714327b7e9dee44fcc39ba0f0a90eca8b0fe",
+      "sourceUrl": "https://noctis-forest-download-aa.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part029"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part030",
+      "bytes": 20971520,
+      "sha256": "27fa2c64d6baec8985df4d493d8f2f30f4d865b5d3c63a7a7a34491ad012cfeb",
+      "sourceUrl": "https://noctis-forest-download-aa.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part030"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part031",
+      "bytes": 20971520,
+      "sha256": "0abcd47594cb7059f3420d51ef5560e2313bc6d37d38e9a06d2b04526c4c13b2",
+      "sourceUrl": "https://noctis-forest-download-aa.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part031"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part032",
+      "bytes": 20971520,
+      "sha256": "fdd2726ce947a0aace826a24a36bdceac80ba04a43a5ada8e1c3bee732d854eb",
+      "sourceUrl": "https://noctis-forest-download-aa.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part032"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part033",
+      "bytes": 20971520,
+      "sha256": "dc4c35771f26517c8ade04a1723489b40cba02ff4bc97d7380dd67d8c08e0135",
+      "sourceUrl": "https://noctis-forest-download-aa.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part033"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part034",
+      "bytes": 20971520,
+      "sha256": "f812663cc73cf1e50d763212dee2348144d8ea88bbcc25919f995f226716c8cb",
+      "sourceUrl": "https://noctis-forest-download-aa.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part034"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part035",
+      "bytes": 20971520,
+      "sha256": "82d22eb3998dc93c708343752f960ac1c263402c908623577f3b951eb7dd06b1",
+      "sourceUrl": "https://noctis-forest-download-aa.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part035"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part036",
+      "bytes": 20971520,
+      "sha256": "1f4407997f14265b198324cf687e81fa3aa652328efd67d25b8740f09b2a673a",
+      "sourceUrl": "https://noctis-forest-download-aa.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part036"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part037",
+      "bytes": 20971520,
+      "sha256": "2b7fd181b4ae5cd1e66344f8e71b31ee909e3bc945c4ea77926aef5b0cbb3438",
+      "sourceUrl": "https://noctis-forest-download-ab.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part037"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part038",
+      "bytes": 20971520,
+      "sha256": "310ffebc7b31dc600ccf43156c3462d9148dcbe4982a891323e59f86af091b43",
+      "sourceUrl": "https://noctis-forest-download-ab.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part038"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part039",
+      "bytes": 20971520,
+      "sha256": "c6029654b92b16d2a527c159c2e7fb3daad3fa52ae597c987907221e57787138",
+      "sourceUrl": "https://noctis-forest-download-ab.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part039"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part040",
+      "bytes": 20971520,
+      "sha256": "683c5903506512911f0b68632c4bb46e3ae0e67dfd639707566da9e8dd8d978d",
+      "sourceUrl": "https://noctis-forest-download-ab.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part040"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part041",
+      "bytes": 20971520,
+      "sha256": "a23f7272300a8f7afcb3a681a381cce422ac0840d219bd6814986456adb18f05",
+      "sourceUrl": "https://noctis-forest-download-ab.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part041"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part042",
+      "bytes": 20971520,
+      "sha256": "9dfcc7a0305464feaa2b50bc5df7828d96136ed4c14f406e18f7e10133b75d0d",
+      "sourceUrl": "https://noctis-forest-download-ab.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part042"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part043",
+      "bytes": 20971520,
+      "sha256": "e44f7725f17089dce29cf0ba445e895b77b84f5fcf8b1e1cf0418f55e02fd2a5",
+      "sourceUrl": "https://noctis-forest-download-ab.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part043"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part044",
+      "bytes": 20971520,
+      "sha256": "7ed6422469dd0dfa58ec55f72e0c267fe2e59b1473703f2d6bd5ffebc71dfd70",
+      "sourceUrl": "https://noctis-forest-download-ab.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part044"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part045",
+      "bytes": 20971520,
+      "sha256": "77d2886fcdc8bd1a33269dfa6d1c5c34c1b108d5148da08460f814bc74db4070",
+      "sourceUrl": "https://noctis-forest-download-ab.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part045"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part046",
+      "bytes": 20971520,
+      "sha256": "50ef1d61509fbba48f2fec0c9b8b98f4b067608b039c41f226aa4ee12ddd75d8",
+      "sourceUrl": "https://noctis-forest-download-ab.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part046"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part047",
+      "bytes": 20971520,
+      "sha256": "a0da3c5ab922377b51e60afe9954d6a8e25e9aaa0990696b9dbcdb794866d60f",
+      "sourceUrl": "https://noctis-forest-download-ab.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part047"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part048",
+      "bytes": 20971520,
+      "sha256": "3c689d2ea705edca83676b5dbda01ccb6b39391f567fb5d3627fbe2f08db707f",
+      "sourceUrl": "https://noctis-forest-download-ab.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part048"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part049",
+      "bytes": 20971520,
+      "sha256": "c1c6bb7abc661546ee6f9f79a469ba9e545351fac0d4d92e0fb07aa4a2f133a4",
+      "sourceUrl": "https://noctis-forest-download-ac.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part049"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part050",
+      "bytes": 20971520,
+      "sha256": "8a536f648fc89b0640e465a2efbdc57d3f6ea3085dda89a3db1aba4ab245aada",
+      "sourceUrl": "https://noctis-forest-download-ac.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part050"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part051",
+      "bytes": 20971520,
+      "sha256": "903cd1bcaaac9109e710396cc601cae49543fb3f9164569a98c6cf7ecbd83eb5",
+      "sourceUrl": "https://noctis-forest-download-ac.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part051"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part052",
+      "bytes": 20971520,
+      "sha256": "4812c09bb92eff9b36093b647cc79e0a12ee39d9e8d2644cd9dbb67924ce60e4",
+      "sourceUrl": "https://noctis-forest-download-ac.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part052"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part053",
+      "bytes": 20971520,
+      "sha256": "09d23742604d883fd15260b33953aa329eff46ffc2ba81b8cc755699d71a1a99",
+      "sourceUrl": "https://noctis-forest-download-ac.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part053"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part054",
+      "bytes": 20971520,
+      "sha256": "f440cce2ff982d7ec9b037eece4e9d380583e575c6340690609de18da4a6d606",
+      "sourceUrl": "https://noctis-forest-download-ac.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part054"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part055",
+      "bytes": 20971520,
+      "sha256": "cea560afc6ca101559380058e351821a82378bdd3be1e6192efe4c4e8d3b8e5d",
+      "sourceUrl": "https://noctis-forest-download-ac.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part055"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part056",
+      "bytes": 20971520,
+      "sha256": "6f054563e6c5f2b37b4851d0a83fc95d87661042b50dd477c4e8cf6df3a17c54",
+      "sourceUrl": "https://noctis-forest-download-ac.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part056"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part057",
+      "bytes": 20971520,
+      "sha256": "76b4e92c73b8df1e66de0f1f0303271f7b905764004793c96710e06974b119d1",
+      "sourceUrl": "https://noctis-forest-download-ac.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part057"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part058",
+      "bytes": 20971520,
+      "sha256": "d9781db9ad5f7381d32f109b15a8d59b34d33b8a0c1ff76555e3d1b7111a84b4",
+      "sourceUrl": "https://noctis-forest-download-ac.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part058"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part059",
+      "bytes": 20971520,
+      "sha256": "2e6c2dde32d1227bb471c81aafded9043cb4bbb877c642dce1ad5a8fe31813d4",
+      "sourceUrl": "https://noctis-forest-download-ac.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part059"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part060",
+      "bytes": 20971520,
+      "sha256": "e77931715d48005ed0ed49dd6ca72df6a04346a25cb02fdcab65f834e05e558b",
+      "sourceUrl": "https://noctis-forest-download-ac.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part060"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part061",
+      "bytes": 20971520,
+      "sha256": "91a7c45d11e044233e1ee9c8be022568018ef1943401c772bf6caf89e41a0022",
+      "sourceUrl": "https://noctis-forest-download-ad.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part061"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part062",
+      "bytes": 20971520,
+      "sha256": "a1a3ff48de1b4e0e0b9a28ee3270ba843bc380263156a291602c92b2402bd43d",
+      "sourceUrl": "https://noctis-forest-download-ad.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part062"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part063",
+      "bytes": 20971520,
+      "sha256": "7ee8ac0693e556734f15b2b53bbbe2ba3827d7c9f3a9f9da5d23fd030f2ff1d1",
+      "sourceUrl": "https://noctis-forest-download-ad.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part063"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part064",
+      "bytes": 20971520,
+      "sha256": "f3f00218d35a65fcba9f13043e19b0287593c7099c2bd592902ac917051733bc",
+      "sourceUrl": "https://noctis-forest-download-ad.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part064"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part065",
+      "bytes": 20971520,
+      "sha256": "f7f4765eee4f5d4d5f1081fcf451b4ba6744342acbb8ce1e8e09f368591e597b",
+      "sourceUrl": "https://noctis-forest-download-ad.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part065"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part066",
+      "bytes": 20971520,
+      "sha256": "d0588e085e4fd602fb6ca0c6db7ef4ec4c5ca5626f8766a517352cce033c3340",
+      "sourceUrl": "https://noctis-forest-download-ad.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part066"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part067",
+      "bytes": 20971520,
+      "sha256": "258f3984fbb3a39ddbe4082a73374b61dafd8936a31ddbd03d59f4ab87d841ed",
+      "sourceUrl": "https://noctis-forest-download-ad.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part067"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part068",
+      "bytes": 20971520,
+      "sha256": "24a5cd777e9edd691382b9f50984f22cff0ce3f60e46a087ea86f174b03f3a17",
+      "sourceUrl": "https://noctis-forest-download-ad.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part068"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part069",
+      "bytes": 20971520,
+      "sha256": "d0010f7274b2015b72b4fd9a8126539046712bd51c8328ccf15f087d08af6471",
+      "sourceUrl": "https://noctis-forest-download-ad.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part069"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part070",
+      "bytes": 20971520,
+      "sha256": "dd04b667ee1d0971d5966950a63d7d139a717b6a543a95fbd804085950bda267",
+      "sourceUrl": "https://noctis-forest-download-ad.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part070"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part071",
+      "bytes": 20971520,
+      "sha256": "3f2d4add9442357e76e8f16cb95a3e0ea8762e3ad05b29034c9d9f51ad96882a",
+      "sourceUrl": "https://noctis-forest-download-ad.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part071"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part072",
+      "bytes": 20971520,
+      "sha256": "c2779667f41bf02dd3525955e7e97dda3dec372f35898d3796c02a20aa08e9f2",
+      "sourceUrl": "https://noctis-forest-download-ad.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part072"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part073",
+      "bytes": 20971520,
+      "sha256": "070a07ca6fef2aa9a890a4bd07420f57a0008509616f611819b6d5fcb84a557e",
+      "sourceUrl": "https://noctis-forest-download-ae.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part073"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part074",
+      "bytes": 20971520,
+      "sha256": "dd44ae7569f4a631f803876e17b13bdf7680d0db4787dbe435ff92002dc6da77",
+      "sourceUrl": "https://noctis-forest-download-ae.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part074"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part075",
+      "bytes": 20971520,
+      "sha256": "43c4741103e611d13424fcab9b6926270ba213a4fdd5c936d235886ce82dba8e",
+      "sourceUrl": "https://noctis-forest-download-ae.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part075"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part076",
+      "bytes": 20971520,
+      "sha256": "5f5d44461f9d7790ccb464f0a658b8e5eb109c356283e501fe0ff13e578e6aa6",
+      "sourceUrl": "https://noctis-forest-download-ae.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part076"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part077",
+      "bytes": 20971520,
+      "sha256": "7dff6023df1ff6ee818a9e2aa60c5aa5674fb69d1fc5835c1326062b0c63ad6a",
+      "sourceUrl": "https://noctis-forest-download-ae.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part077"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part078",
+      "bytes": 20971520,
+      "sha256": "437c47ad09e3efb7040a89ed5bef6829277ac2207bb25e887fe6b823b522ee87",
+      "sourceUrl": "https://noctis-forest-download-ae.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part078"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part079",
+      "bytes": 20971520,
+      "sha256": "c7ffb38d03f6b1c472dd0fed3d8fba34023c81e4a8e74c673f2f19b329b0c093",
+      "sourceUrl": "https://noctis-forest-download-ae.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part079"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part080",
+      "bytes": 20971520,
+      "sha256": "a5d75aa2206847dce7b1642678b4ff967f3157a9497f14ab6f6fbf399d2699ed",
+      "sourceUrl": "https://noctis-forest-download-ae.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part080"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part081",
+      "bytes": 20971520,
+      "sha256": "e6344e8f6efaaef148d9e39f3a21fe8bac2c40d7e991521321ff117b0d615243",
+      "sourceUrl": "https://noctis-forest-download-ae.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part081"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part082",
+      "bytes": 20971520,
+      "sha256": "57a840fd47c08554a681618562b291d60b731b488bfae0016734946d8032d82b",
+      "sourceUrl": "https://noctis-forest-download-ae.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part082"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part083",
+      "bytes": 20971520,
+      "sha256": "120bfb7f4ffe545fb1727726aa96004abd3ebd64c2e673ed1431169720a2821c",
+      "sourceUrl": "https://noctis-forest-download-ae.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part083"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part084",
+      "bytes": 20971520,
+      "sha256": "fd4bab223365846be53ce3bac83db1d1f426c3e775b1166acf2d0a4e950ee180",
+      "sourceUrl": "https://noctis-forest-download-ae.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part084"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part085",
+      "bytes": 20971520,
+      "sha256": "361df7bfceb181ec63792cb8114018c9f30bd1ad1ae452bda396d780bbe5c38e",
+      "sourceUrl": "https://noctis-forest-download-af.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part085"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part086",
+      "bytes": 20971520,
+      "sha256": "577972537c34f9bc05bbbec66419706a54b9bccbf98faf4b29cb08d2b70cf552",
+      "sourceUrl": "https://noctis-forest-download-af.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part086"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part087",
+      "bytes": 20971520,
+      "sha256": "4744fbbcb8172a34370ec1d5d8e94976f565df239b735c6603075042c7f5dff9",
+      "sourceUrl": "https://noctis-forest-download-af.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part087"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part088",
+      "bytes": 20971520,
+      "sha256": "e232d92a849c7c22a1a8bd27d72c502ba706032650503fa6c6fd5154b286c063",
+      "sourceUrl": "https://noctis-forest-download-af.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part088"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part089",
+      "bytes": 20971520,
+      "sha256": "35a6aed4d9fa71cbf3d8171b06d7cf0c22ddc6b4e2fb64218f2dbcb456e8ebf2",
+      "sourceUrl": "https://noctis-forest-download-af.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part089"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part090",
+      "bytes": 20971520,
+      "sha256": "1e4a3cad0a4e5b3fa0d36b2dded37f363cb959d41d71ad2397830134456c7172",
+      "sourceUrl": "https://noctis-forest-download-af.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part090"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part091",
+      "bytes": 20971520,
+      "sha256": "fbb86a11ea9d8b358b1978bb1904e3f02662cc12cde46c373034d1c04cd58d28",
+      "sourceUrl": "https://noctis-forest-download-af.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part091"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part092",
+      "bytes": 20971520,
+      "sha256": "88c93812544a41172ad3705c62ad2ce4fe9bad3e270f8abf8092fe0d9efadd33",
+      "sourceUrl": "https://noctis-forest-download-af.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part092"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part093",
+      "bytes": 20971520,
+      "sha256": "b289410d3122ac0478816679e1682c583ed802b708f3342bc29cf05b47090097",
+      "sourceUrl": "https://noctis-forest-download-af.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part093"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part094",
+      "bytes": 20971520,
+      "sha256": "c374035dc288b9461080310157b008d275796d76815d5232ecb087648da3cf06",
+      "sourceUrl": "https://noctis-forest-download-af.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part094"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part095",
+      "bytes": 20971520,
+      "sha256": "b9eb52fd798ebcac10fbbb26d3d0da0e39c786efdee4fb15f844fae376c51c9a",
+      "sourceUrl": "https://noctis-forest-download-af.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part095"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part096",
+      "bytes": 20971520,
+      "sha256": "fb971505a5f4ae86a059ff397941f9e93d51f96be16617ce91c8b2f7ebad3817",
+      "sourceUrl": "https://noctis-forest-download-af.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part096"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part097",
+      "bytes": 20971520,
+      "sha256": "4f95f8c7a15053e9ca8a7fb52efe2580f36a3d640e4bfc80706a07a69fe41428",
+      "sourceUrl": "https://noctis-forest-download-ag.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part097"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part098",
+      "bytes": 20971520,
+      "sha256": "7e794e8d3b80a5e3638a9e15e102a8a24b5bf22239735a08037ae11784d80d93",
+      "sourceUrl": "https://noctis-forest-download-ag.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part098"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part099",
+      "bytes": 20971520,
+      "sha256": "cb817e1894d1a2eef2e807539712f2efc82ee2629b4e677ef9d9d9fa6e283dd3",
+      "sourceUrl": "https://noctis-forest-download-ag.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part099"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part100",
+      "bytes": 20971520,
+      "sha256": "4834feb844350546c17280156d942e095e9b9a5a1a453749a2e158f0e26b19d4",
+      "sourceUrl": "https://noctis-forest-download-ag.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part100"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part101",
+      "bytes": 20971520,
+      "sha256": "703cfb662f4ce011daacbc38ed6ed72051f3fa7de7a6d788a4e7d1bece5978a5",
+      "sourceUrl": "https://noctis-forest-download-ag.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part101"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part102",
+      "bytes": 20971520,
+      "sha256": "361e54d859cc475fbf2d165fec6773a7c5ce3a326b5248f6221c0871fd1c9e2a",
+      "sourceUrl": "https://noctis-forest-download-ag.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part102"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.5.0.zip.part103",
+      "bytes": 7758202,
+      "sha256": "adde88d30fdebcb172623e011f4997dd185626b41d5bc4e0ffd2c3999923b338",
+      "sourceUrl": "https://noctis-forest-download-ag.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part103"
+    },
+    {
+      "name": "ForestLetters-Delta-v0.4.0-to-v0.5.0.zip.part099",
+      "bytes": 12762933,
+      "sha256": "fc66bd15727386ae72c403035a153833e8ab667f65bf92e4588841d35519eedc",
+      "sourceUrl": "https://noctis-forest-download-ag.xiaoandy16.chatgpt.site/downloads/forest-letters/releases/v0.5.0/delta-from-v0.4.0/ForestLetters-Delta-v0.4.0-to-v0.5.0.zip.part099"
+    },
+    {
+      "name": "NoctisLauncherSetup-v0.7.0.exe",
+      "bytes": 2472448,
+      "sha256": "99c5e4a66ce06a5e2cd744d8a0876bed0e8acf2ab2d58c2924eaf501a3500026"
+    },
+    {
+      "name": "delivery-manifest.json",
+      "bytes": 27089,
+      "sha256": "6e9521b54a388b33b02ff126a913695b7600a820f9d9b8d61f50642bad993079",
+      "inline": "{\n  \"schema\": 1,\n  \"status\": \"ready\",\n  \"version\": \"0.5.0\",\n  \"fileName\": \"ForestLetters-Windows-v0.5.0.zip\",\n  \"totalBytes\": 2146853242,\n  \"sha256\": \"495dd9d4b85b39b6a3ee965ab75fe4441e1f059857eda5690df1577ac5871b60\",\n  \"parts\": [\n    {\n      \"index\": 1,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part001\",\n      \"bytes\": 20971520,\n      \"sha256\": \"18918e2e8df1dc5d38370bbe23780345495772905673e20b214822c78e0701fc\",\n      \"volume\": \"y\"\n    },\n    {\n      \"index\": 2,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part002\",\n      \"bytes\": 20971520,\n      \"sha256\": \"85d96bbcd00e43f10555ad8862babc222147eb35ca78ac76db57204a47e86d38\",\n      \"volume\": \"y\"\n    },\n    {\n      \"index\": 3,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part003\",\n      \"bytes\": 20971520,\n      \"sha256\": \"340c995e8abf63841fecd3145a3a7bff81b969265ac5e367ede3df0570f393f0\",\n      \"volume\": \"y\"\n    },\n    {\n      \"index\": 4,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part004\",\n      \"bytes\": 20971520,\n      \"sha256\": \"41cbfa94e0eb8aab12d86443962e4082021b54fe199183383827428a53a5aa6c\",\n      \"volume\": \"y\"\n    },\n    {\n      \"index\": 5,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part005\",\n      \"bytes\": 20971520,\n      \"sha256\": \"9e47a81bdfe6bbe7914b0a2ee6bac474a0136730c9c6d2b0301406119cb195ba\",\n      \"volume\": \"y\"\n    },\n    {\n      \"index\": 6,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part006\",\n      \"bytes\": 20971520,\n      \"sha256\": \"9de6094a021b79f49b51ef4eebe12d470d4d14a8a0a42f7890e5b8aa4f96594a\",\n      \"volume\": \"y\"\n    },\n    {\n      \"index\": 7,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part007\",\n      \"bytes\": 20971520,\n      \"sha256\": \"6eb3aa62058ee03af02b7e38a70638ccdd6e391d086adfcaa8e5c918dba14635\",\n      \"volume\": \"y\"\n    },\n    {\n      \"index\": 8,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part008\",\n      \"bytes\": 20971520,\n      \"sha256\": \"e9e744348b28f7bc8bbdea55fa673e654df50f8d8a1db647b01591d3d1f80008\",\n      \"volume\": \"y\"\n    },\n    {\n      \"index\": 9,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part009\",\n      \"bytes\": 20971520,\n      \"sha256\": \"a9de27968dc169b6cdbec057cf8f6bf97bc9d699907e443e6a4084ce8352e0c0\",\n      \"volume\": \"y\"\n    },\n    {\n      \"index\": 10,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part010\",\n      \"bytes\": 20971520,\n      \"sha256\": \"58497f659e87bb933f2926954f8eb7af8f5eb977e5e3468399975f24160155cb\",\n      \"volume\": \"y\"\n    },\n    {\n      \"index\": 11,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part011\",\n      \"bytes\": 20971520,\n      \"sha256\": \"a91c4fd503270c26a4c80331ec2a73c7257910a3934ddac12c2f7b1b8b8fbb56\",\n      \"volume\": \"y\"\n    },\n    {\n      \"index\": 12,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part012\",\n      \"bytes\": 20971520,\n      \"sha256\": \"8260252b8b84f3913553fc938e4a686b0c27054e9a1494cb594812fa82595c53\",\n      \"volume\": \"y\"\n    },\n    {\n      \"index\": 13,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part013\",\n      \"bytes\": 20971520,\n      \"sha256\": \"767a85e4a68f117d71fc86e028c46353f6f29f9899714f4586e5a0b893139930\",\n      \"volume\": \"z\"\n    },\n    {\n      \"index\": 14,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part014\",\n      \"bytes\": 20971520,\n      \"sha256\": \"270585a0d13ea59fda21746bad474566ba680382e7bc99062d5f8fbaa1b655c5\",\n      \"volume\": \"z\"\n    },\n    {\n      \"index\": 15,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part015\",\n      \"bytes\": 20971520,\n      \"sha256\": \"ae8434711a3c921be8db3fe4314ea3d56a508cf7593d4e48b21b0950382e6df2\",\n      \"volume\": \"z\"\n    },\n    {\n      \"index\": 16,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part016\",\n      \"bytes\": 20971520,\n      \"sha256\": \"54c54cdbf27e61b248ce56a8f7ee60dd40e49f0ffe031bd43c3d8a1d8819bbc6\",\n      \"volume\": \"z\"\n    },\n    {\n      \"index\": 17,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part017\",\n      \"bytes\": 20971520,\n      \"sha256\": \"17f618d3a384eab4583536aa37b0a99f0ba5a535a0de4c0ecd065998a45dd1de\",\n      \"volume\": \"z\"\n    },\n    {\n      \"index\": 18,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part018\",\n      \"bytes\": 20971520,\n      \"sha256\": \"0523f75efc7e6c2784815fc5efcf97a6d2f8d7f248cb2bd732204013fd08d18d\",\n      \"volume\": \"z\"\n    },\n    {\n      \"index\": 19,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part019\",\n      \"bytes\": 20971520,\n      \"sha256\": \"1b9dc3477cd6dbc3b645cd9ff8ce4341acbe7fd2b9300a2ec9cbcda7cab974bb\",\n      \"volume\": \"z\"\n    },\n    {\n      \"index\": 20,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part020\",\n      \"bytes\": 20971520,\n      \"sha256\": \"88c84ced31862b0b34708bfb4bd5a1d45eaa9d56193e88c48a07f90440e0dad1\",\n      \"volume\": \"z\"\n    },\n    {\n      \"index\": 21,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part021\",\n      \"bytes\": 20971520,\n      \"sha256\": \"6b16aa01ddb138fc6229495e61f747cf33293103512035c100cd5d4b145db821\",\n      \"volume\": \"z\"\n    },\n    {\n      \"index\": 22,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part022\",\n      \"bytes\": 20971520,\n      \"sha256\": \"a61d57885b3c36224dffe407d16e841204470f3d800a46513e7bf87cced402b8\",\n      \"volume\": \"z\"\n    },\n    {\n      \"index\": 23,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part023\",\n      \"bytes\": 20971520,\n      \"sha256\": \"7fd0afc8dff2a7162daef49c2969dc8e07491e669999ee37149dd322ae5e65be\",\n      \"volume\": \"z\"\n    },\n    {\n      \"index\": 24,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part024\",\n      \"bytes\": 20971520,\n      \"sha256\": \"1a1515da2ed56030448936f5f2542899e8e6bb94609f2cf10a8e838d7f3ce153\",\n      \"volume\": \"z\"\n    },\n    {\n      \"index\": 25,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part025\",\n      \"bytes\": 20971520,\n      \"sha256\": \"5ed298e64aedcaa7441dc7f8a0958614bc3510e0201b740b079355fc2b74544f\",\n      \"volume\": \"aa\"\n    },\n    {\n      \"index\": 26,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part026\",\n      \"bytes\": 20971520,\n      \"sha256\": \"aa4f809b028754d8a909b1173dfe4b3f7df78f031ed0b281bef870678014586f\",\n      \"volume\": \"aa\"\n    },\n    {\n      \"index\": 27,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part027\",\n      \"bytes\": 20971520,\n      \"sha256\": \"9b02f6377a345e9c8328ab667cfc5580ef0cf7c7522d00e12936b99e225b197b\",\n      \"volume\": \"aa\"\n    },\n    {\n      \"index\": 28,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part028\",\n      \"bytes\": 20971520,\n      \"sha256\": \"0585c1b816803b066fbd40cb6a3eb6c68e593ca869ba74296684c800050aee30\",\n      \"volume\": \"aa\"\n    },\n    {\n      \"index\": 29,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part029\",\n      \"bytes\": 20971520,\n      \"sha256\": \"5280d96b2e5f2407204637050cd3714327b7e9dee44fcc39ba0f0a90eca8b0fe\",\n      \"volume\": \"aa\"\n    },\n    {\n      \"index\": 30,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part030\",\n      \"bytes\": 20971520,\n      \"sha256\": \"27fa2c64d6baec8985df4d493d8f2f30f4d865b5d3c63a7a7a34491ad012cfeb\",\n      \"volume\": \"aa\"\n    },\n    {\n      \"index\": 31,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part031\",\n      \"bytes\": 20971520,\n      \"sha256\": \"0abcd47594cb7059f3420d51ef5560e2313bc6d37d38e9a06d2b04526c4c13b2\",\n      \"volume\": \"aa\"\n    },\n    {\n      \"index\": 32,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part032\",\n      \"bytes\": 20971520,\n      \"sha256\": \"fdd2726ce947a0aace826a24a36bdceac80ba04a43a5ada8e1c3bee732d854eb\",\n      \"volume\": \"aa\"\n    },\n    {\n      \"index\": 33,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part033\",\n      \"bytes\": 20971520,\n      \"sha256\": \"dc4c35771f26517c8ade04a1723489b40cba02ff4bc97d7380dd67d8c08e0135\",\n      \"volume\": \"aa\"\n    },\n    {\n      \"index\": 34,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part034\",\n      \"bytes\": 20971520,\n      \"sha256\": \"f812663cc73cf1e50d763212dee2348144d8ea88bbcc25919f995f226716c8cb\",\n      \"volume\": \"aa\"\n    },\n    {\n      \"index\": 35,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part035\",\n      \"bytes\": 20971520,\n      \"sha256\": \"82d22eb3998dc93c708343752f960ac1c263402c908623577f3b951eb7dd06b1\",\n      \"volume\": \"aa\"\n    },\n    {\n      \"index\": 36,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part036\",\n      \"bytes\": 20971520,\n      \"sha256\": \"1f4407997f14265b198324cf687e81fa3aa652328efd67d25b8740f09b2a673a\",\n      \"volume\": \"aa\"\n    },\n    {\n      \"index\": 37,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part037\",\n      \"bytes\": 20971520,\n      \"sha256\": \"2b7fd181b4ae5cd1e66344f8e71b31ee909e3bc945c4ea77926aef5b0cbb3438\",\n      \"volume\": \"ab\"\n    },\n    {\n      \"index\": 38,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part038\",\n      \"bytes\": 20971520,\n      \"sha256\": \"310ffebc7b31dc600ccf43156c3462d9148dcbe4982a891323e59f86af091b43\",\n      \"volume\": \"ab\"\n    },\n    {\n      \"index\": 39,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part039\",\n      \"bytes\": 20971520,\n      \"sha256\": \"c6029654b92b16d2a527c159c2e7fb3daad3fa52ae597c987907221e57787138\",\n      \"volume\": \"ab\"\n    },\n    {\n      \"index\": 40,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part040\",\n      \"bytes\": 20971520,\n      \"sha256\": \"683c5903506512911f0b68632c4bb46e3ae0e67dfd639707566da9e8dd8d978d\",\n      \"volume\": \"ab\"\n    },\n    {\n      \"index\": 41,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part041\",\n      \"bytes\": 20971520,\n      \"sha256\": \"a23f7272300a8f7afcb3a681a381cce422ac0840d219bd6814986456adb18f05\",\n      \"volume\": \"ab\"\n    },\n    {\n      \"index\": 42,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part042\",\n      \"bytes\": 20971520,\n      \"sha256\": \"9dfcc7a0305464feaa2b50bc5df7828d96136ed4c14f406e18f7e10133b75d0d\",\n      \"volume\": \"ab\"\n    },\n    {\n      \"index\": 43,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part043\",\n      \"bytes\": 20971520,\n      \"sha256\": \"e44f7725f17089dce29cf0ba445e895b77b84f5fcf8b1e1cf0418f55e02fd2a5\",\n      \"volume\": \"ab\"\n    },\n    {\n      \"index\": 44,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part044\",\n      \"bytes\": 20971520,\n      \"sha256\": \"7ed6422469dd0dfa58ec55f72e0c267fe2e59b1473703f2d6bd5ffebc71dfd70\",\n      \"volume\": \"ab\"\n    },\n    {\n      \"index\": 45,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part045\",\n      \"bytes\": 20971520,\n      \"sha256\": \"77d2886fcdc8bd1a33269dfa6d1c5c34c1b108d5148da08460f814bc74db4070\",\n      \"volume\": \"ab\"\n    },\n    {\n      \"index\": 46,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part046\",\n      \"bytes\": 20971520,\n      \"sha256\": \"50ef1d61509fbba48f2fec0c9b8b98f4b067608b039c41f226aa4ee12ddd75d8\",\n      \"volume\": \"ab\"\n    },\n    {\n      \"index\": 47,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part047\",\n      \"bytes\": 20971520,\n      \"sha256\": \"a0da3c5ab922377b51e60afe9954d6a8e25e9aaa0990696b9dbcdb794866d60f\",\n      \"volume\": \"ab\"\n    },\n    {\n      \"index\": 48,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part048\",\n      \"bytes\": 20971520,\n      \"sha256\": \"3c689d2ea705edca83676b5dbda01ccb6b39391f567fb5d3627fbe2f08db707f\",\n      \"volume\": \"ab\"\n    },\n    {\n      \"index\": 49,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part049\",\n      \"bytes\": 20971520,\n      \"sha256\": \"c1c6bb7abc661546ee6f9f79a469ba9e545351fac0d4d92e0fb07aa4a2f133a4\",\n      \"volume\": \"ac\"\n    },\n    {\n      \"index\": 50,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part050\",\n      \"bytes\": 20971520,\n      \"sha256\": \"8a536f648fc89b0640e465a2efbdc57d3f6ea3085dda89a3db1aba4ab245aada\",\n      \"volume\": \"ac\"\n    },\n    {\n      \"index\": 51,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part051\",\n      \"bytes\": 20971520,\n      \"sha256\": \"903cd1bcaaac9109e710396cc601cae49543fb3f9164569a98c6cf7ecbd83eb5\",\n      \"volume\": \"ac\"\n    },\n    {\n      \"index\": 52,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part052\",\n      \"bytes\": 20971520,\n      \"sha256\": \"4812c09bb92eff9b36093b647cc79e0a12ee39d9e8d2644cd9dbb67924ce60e4\",\n      \"volume\": \"ac\"\n    },\n    {\n      \"index\": 53,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part053\",\n      \"bytes\": 20971520,\n      \"sha256\": \"09d23742604d883fd15260b33953aa329eff46ffc2ba81b8cc755699d71a1a99\",\n      \"volume\": \"ac\"\n    },\n    {\n      \"index\": 54,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part054\",\n      \"bytes\": 20971520,\n      \"sha256\": \"f440cce2ff982d7ec9b037eece4e9d380583e575c6340690609de18da4a6d606\",\n      \"volume\": \"ac\"\n    },\n    {\n      \"index\": 55,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part055\",\n      \"bytes\": 20971520,\n      \"sha256\": \"cea560afc6ca101559380058e351821a82378bdd3be1e6192efe4c4e8d3b8e5d\",\n      \"volume\": \"ac\"\n    },\n    {\n      \"index\": 56,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part056\",\n      \"bytes\": 20971520,\n      \"sha256\": \"6f054563e6c5f2b37b4851d0a83fc95d87661042b50dd477c4e8cf6df3a17c54\",\n      \"volume\": \"ac\"\n    },\n    {\n      \"index\": 57,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part057\",\n      \"bytes\": 20971520,\n      \"sha256\": \"76b4e92c73b8df1e66de0f1f0303271f7b905764004793c96710e06974b119d1\",\n      \"volume\": \"ac\"\n    },\n    {\n      \"index\": 58,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part058\",\n      \"bytes\": 20971520,\n      \"sha256\": \"d9781db9ad5f7381d32f109b15a8d59b34d33b8a0c1ff76555e3d1b7111a84b4\",\n      \"volume\": \"ac\"\n    },\n    {\n      \"index\": 59,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part059\",\n      \"bytes\": 20971520,\n      \"sha256\": \"2e6c2dde32d1227bb471c81aafded9043cb4bbb877c642dce1ad5a8fe31813d4\",\n      \"volume\": \"ac\"\n    },\n    {\n      \"index\": 60,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part060\",\n      \"bytes\": 20971520,\n      \"sha256\": \"e77931715d48005ed0ed49dd6ca72df6a04346a25cb02fdcab65f834e05e558b\",\n      \"volume\": \"ac\"\n    },\n    {\n      \"index\": 61,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part061\",\n      \"bytes\": 20971520,\n      \"sha256\": \"91a7c45d11e044233e1ee9c8be022568018ef1943401c772bf6caf89e41a0022\",\n      \"volume\": \"ad\"\n    },\n    {\n      \"index\": 62,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part062\",\n      \"bytes\": 20971520,\n      \"sha256\": \"a1a3ff48de1b4e0e0b9a28ee3270ba843bc380263156a291602c92b2402bd43d\",\n      \"volume\": \"ad\"\n    },\n    {\n      \"index\": 63,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part063\",\n      \"bytes\": 20971520,\n      \"sha256\": \"7ee8ac0693e556734f15b2b53bbbe2ba3827d7c9f3a9f9da5d23fd030f2ff1d1\",\n      \"volume\": \"ad\"\n    },\n    {\n      \"index\": 64,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part064\",\n      \"bytes\": 20971520,\n      \"sha256\": \"f3f00218d35a65fcba9f13043e19b0287593c7099c2bd592902ac917051733bc\",\n      \"volume\": \"ad\"\n    },\n    {\n      \"index\": 65,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part065\",\n      \"bytes\": 20971520,\n      \"sha256\": \"f7f4765eee4f5d4d5f1081fcf451b4ba6744342acbb8ce1e8e09f368591e597b\",\n      \"volume\": \"ad\"\n    },\n    {\n      \"index\": 66,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part066\",\n      \"bytes\": 20971520,\n      \"sha256\": \"d0588e085e4fd602fb6ca0c6db7ef4ec4c5ca5626f8766a517352cce033c3340\",\n      \"volume\": \"ad\"\n    },\n    {\n      \"index\": 67,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part067\",\n      \"bytes\": 20971520,\n      \"sha256\": \"258f3984fbb3a39ddbe4082a73374b61dafd8936a31ddbd03d59f4ab87d841ed\",\n      \"volume\": \"ad\"\n    },\n    {\n      \"index\": 68,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part068\",\n      \"bytes\": 20971520,\n      \"sha256\": \"24a5cd777e9edd691382b9f50984f22cff0ce3f60e46a087ea86f174b03f3a17\",\n      \"volume\": \"ad\"\n    },\n    {\n      \"index\": 69,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part069\",\n      \"bytes\": 20971520,\n      \"sha256\": \"d0010f7274b2015b72b4fd9a8126539046712bd51c8328ccf15f087d08af6471\",\n      \"volume\": \"ad\"\n    },\n    {\n      \"index\": 70,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part070\",\n      \"bytes\": 20971520,\n      \"sha256\": \"dd04b667ee1d0971d5966950a63d7d139a717b6a543a95fbd804085950bda267\",\n      \"volume\": \"ad\"\n    },\n    {\n      \"index\": 71,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part071\",\n      \"bytes\": 20971520,\n      \"sha256\": \"3f2d4add9442357e76e8f16cb95a3e0ea8762e3ad05b29034c9d9f51ad96882a\",\n      \"volume\": \"ad\"\n    },\n    {\n      \"index\": 72,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part072\",\n      \"bytes\": 20971520,\n      \"sha256\": \"c2779667f41bf02dd3525955e7e97dda3dec372f35898d3796c02a20aa08e9f2\",\n      \"volume\": \"ad\"\n    },\n    {\n      \"index\": 73,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part073\",\n      \"bytes\": 20971520,\n      \"sha256\": \"070a07ca6fef2aa9a890a4bd07420f57a0008509616f611819b6d5fcb84a557e\",\n      \"volume\": \"ae\"\n    },\n    {\n      \"index\": 74,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part074\",\n      \"bytes\": 20971520,\n      \"sha256\": \"dd44ae7569f4a631f803876e17b13bdf7680d0db4787dbe435ff92002dc6da77\",\n      \"volume\": \"ae\"\n    },\n    {\n      \"index\": 75,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part075\",\n      \"bytes\": 20971520,\n      \"sha256\": \"43c4741103e611d13424fcab9b6926270ba213a4fdd5c936d235886ce82dba8e\",\n      \"volume\": \"ae\"\n    },\n    {\n      \"index\": 76,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part076\",\n      \"bytes\": 20971520,\n      \"sha256\": \"5f5d44461f9d7790ccb464f0a658b8e5eb109c356283e501fe0ff13e578e6aa6\",\n      \"volume\": \"ae\"\n    },\n    {\n      \"index\": 77,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part077\",\n      \"bytes\": 20971520,\n      \"sha256\": \"7dff6023df1ff6ee818a9e2aa60c5aa5674fb69d1fc5835c1326062b0c63ad6a\",\n      \"volume\": \"ae\"\n    },\n    {\n      \"index\": 78,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part078\",\n      \"bytes\": 20971520,\n      \"sha256\": \"437c47ad09e3efb7040a89ed5bef6829277ac2207bb25e887fe6b823b522ee87\",\n      \"volume\": \"ae\"\n    },\n    {\n      \"index\": 79,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part079\",\n      \"bytes\": 20971520,\n      \"sha256\": \"c7ffb38d03f6b1c472dd0fed3d8fba34023c81e4a8e74c673f2f19b329b0c093\",\n      \"volume\": \"ae\"\n    },\n    {\n      \"index\": 80,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part080\",\n      \"bytes\": 20971520,\n      \"sha256\": \"a5d75aa2206847dce7b1642678b4ff967f3157a9497f14ab6f6fbf399d2699ed\",\n      \"volume\": \"ae\"\n    },\n    {\n      \"index\": 81,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part081\",\n      \"bytes\": 20971520,\n      \"sha256\": \"e6344e8f6efaaef148d9e39f3a21fe8bac2c40d7e991521321ff117b0d615243\",\n      \"volume\": \"ae\"\n    },\n    {\n      \"index\": 82,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part082\",\n      \"bytes\": 20971520,\n      \"sha256\": \"57a840fd47c08554a681618562b291d60b731b488bfae0016734946d8032d82b\",\n      \"volume\": \"ae\"\n    },\n    {\n      \"index\": 83,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part083\",\n      \"bytes\": 20971520,\n      \"sha256\": \"120bfb7f4ffe545fb1727726aa96004abd3ebd64c2e673ed1431169720a2821c\",\n      \"volume\": \"ae\"\n    },\n    {\n      \"index\": 84,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part084\",\n      \"bytes\": 20971520,\n      \"sha256\": \"fd4bab223365846be53ce3bac83db1d1f426c3e775b1166acf2d0a4e950ee180\",\n      \"volume\": \"ae\"\n    },\n    {\n      \"index\": 85,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part085\",\n      \"bytes\": 20971520,\n      \"sha256\": \"361df7bfceb181ec63792cb8114018c9f30bd1ad1ae452bda396d780bbe5c38e\",\n      \"volume\": \"af\"\n    },\n    {\n      \"index\": 86,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part086\",\n      \"bytes\": 20971520,\n      \"sha256\": \"577972537c34f9bc05bbbec66419706a54b9bccbf98faf4b29cb08d2b70cf552\",\n      \"volume\": \"af\"\n    },\n    {\n      \"index\": 87,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part087\",\n      \"bytes\": 20971520,\n      \"sha256\": \"4744fbbcb8172a34370ec1d5d8e94976f565df239b735c6603075042c7f5dff9\",\n      \"volume\": \"af\"\n    },\n    {\n      \"index\": 88,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part088\",\n      \"bytes\": 20971520,\n      \"sha256\": \"e232d92a849c7c22a1a8bd27d72c502ba706032650503fa6c6fd5154b286c063\",\n      \"volume\": \"af\"\n    },\n    {\n      \"index\": 89,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part089\",\n      \"bytes\": 20971520,\n      \"sha256\": \"35a6aed4d9fa71cbf3d8171b06d7cf0c22ddc6b4e2fb64218f2dbcb456e8ebf2\",\n      \"volume\": \"af\"\n    },\n    {\n      \"index\": 90,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part090\",\n      \"bytes\": 20971520,\n      \"sha256\": \"1e4a3cad0a4e5b3fa0d36b2dded37f363cb959d41d71ad2397830134456c7172\",\n      \"volume\": \"af\"\n    },\n    {\n      \"index\": 91,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part091\",\n      \"bytes\": 20971520,\n      \"sha256\": \"fbb86a11ea9d8b358b1978bb1904e3f02662cc12cde46c373034d1c04cd58d28\",\n      \"volume\": \"af\"\n    },\n    {\n      \"index\": 92,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part092\",\n      \"bytes\": 20971520,\n      \"sha256\": \"88c93812544a41172ad3705c62ad2ce4fe9bad3e270f8abf8092fe0d9efadd33\",\n      \"volume\": \"af\"\n    },\n    {\n      \"index\": 93,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part093\",\n      \"bytes\": 20971520,\n      \"sha256\": \"b289410d3122ac0478816679e1682c583ed802b708f3342bc29cf05b47090097\",\n      \"volume\": \"af\"\n    },\n    {\n      \"index\": 94,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part094\",\n      \"bytes\": 20971520,\n      \"sha256\": \"c374035dc288b9461080310157b008d275796d76815d5232ecb087648da3cf06\",\n      \"volume\": \"af\"\n    },\n    {\n      \"index\": 95,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part095\",\n      \"bytes\": 20971520,\n      \"sha256\": \"b9eb52fd798ebcac10fbbb26d3d0da0e39c786efdee4fb15f844fae376c51c9a\",\n      \"volume\": \"af\"\n    },\n    {\n      \"index\": 96,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part096\",\n      \"bytes\": 20971520,\n      \"sha256\": \"fb971505a5f4ae86a059ff397941f9e93d51f96be16617ce91c8b2f7ebad3817\",\n      \"volume\": \"af\"\n    },\n    {\n      \"index\": 97,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part097\",\n      \"bytes\": 20971520,\n      \"sha256\": \"4f95f8c7a15053e9ca8a7fb52efe2580f36a3d640e4bfc80706a07a69fe41428\",\n      \"volume\": \"ag\"\n    },\n    {\n      \"index\": 98,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part098\",\n      \"bytes\": 20971520,\n      \"sha256\": \"7e794e8d3b80a5e3638a9e15e102a8a24b5bf22239735a08037ae11784d80d93\",\n      \"volume\": \"ag\"\n    },\n    {\n      \"index\": 99,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part099\",\n      \"bytes\": 20971520,\n      \"sha256\": \"cb817e1894d1a2eef2e807539712f2efc82ee2629b4e677ef9d9d9fa6e283dd3\",\n      \"volume\": \"ag\"\n    },\n    {\n      \"index\": 100,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part100\",\n      \"bytes\": 20971520,\n      \"sha256\": \"4834feb844350546c17280156d942e095e9b9a5a1a453749a2e158f0e26b19d4\",\n      \"volume\": \"ag\"\n    },\n    {\n      \"index\": 101,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part101\",\n      \"bytes\": 20971520,\n      \"sha256\": \"703cfb662f4ce011daacbc38ed6ed72051f3fa7de7a6d788a4e7d1bece5978a5\",\n      \"volume\": \"ag\"\n    },\n    {\n      \"index\": 102,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part102\",\n      \"bytes\": 20971520,\n      \"sha256\": \"361e54d859cc475fbf2d165fec6773a7c5ce3a326b5248f6221c0871fd1c9e2a\",\n      \"volume\": \"ag\"\n    },\n    {\n      \"index\": 103,\n      \"path\": \"downloads/forest-letters/releases/v0.5.0/ForestLetters-Windows-v0.5.0.zip.part103\",\n      \"bytes\": 7758202,\n      \"sha256\": \"adde88d30fdebcb172623e011f4997dd185626b41d5bc4e0ffd2c3999923b338\",\n      \"volume\": \"ag\"\n    }\n  ]\n}\n"
+    },
+    {
+      "name": "SHA256SUMS.txt",
+      "bytes": 11322,
+      "sha256": "386b69fa6d2792e29c161f07a0227585f3c5a76d31b36939cf15497b3b26af3b",
+      "inline": "18918e2e8df1dc5d38370bbe23780345495772905673e20b214822c78e0701fc  ForestLetters-Windows-v0.5.0.zip.part001\n85d96bbcd00e43f10555ad8862babc222147eb35ca78ac76db57204a47e86d38  ForestLetters-Windows-v0.5.0.zip.part002\n340c995e8abf63841fecd3145a3a7bff81b969265ac5e367ede3df0570f393f0  ForestLetters-Windows-v0.5.0.zip.part003\n41cbfa94e0eb8aab12d86443962e4082021b54fe199183383827428a53a5aa6c  ForestLetters-Windows-v0.5.0.zip.part004\n9e47a81bdfe6bbe7914b0a2ee6bac474a0136730c9c6d2b0301406119cb195ba  ForestLetters-Windows-v0.5.0.zip.part005\n9de6094a021b79f49b51ef4eebe12d470d4d14a8a0a42f7890e5b8aa4f96594a  ForestLetters-Windows-v0.5.0.zip.part006\n6eb3aa62058ee03af02b7e38a70638ccdd6e391d086adfcaa8e5c918dba14635  ForestLetters-Windows-v0.5.0.zip.part007\ne9e744348b28f7bc8bbdea55fa673e654df50f8d8a1db647b01591d3d1f80008  ForestLetters-Windows-v0.5.0.zip.part008\na9de27968dc169b6cdbec057cf8f6bf97bc9d699907e443e6a4084ce8352e0c0  ForestLetters-Windows-v0.5.0.zip.part009\n58497f659e87bb933f2926954f8eb7af8f5eb977e5e3468399975f24160155cb  ForestLetters-Windows-v0.5.0.zip.part010\na91c4fd503270c26a4c80331ec2a73c7257910a3934ddac12c2f7b1b8b8fbb56  ForestLetters-Windows-v0.5.0.zip.part011\n8260252b8b84f3913553fc938e4a686b0c27054e9a1494cb594812fa82595c53  ForestLetters-Windows-v0.5.0.zip.part012\n767a85e4a68f117d71fc86e028c46353f6f29f9899714f4586e5a0b893139930  ForestLetters-Windows-v0.5.0.zip.part013\n270585a0d13ea59fda21746bad474566ba680382e7bc99062d5f8fbaa1b655c5  ForestLetters-Windows-v0.5.0.zip.part014\nae8434711a3c921be8db3fe4314ea3d56a508cf7593d4e48b21b0950382e6df2  ForestLetters-Windows-v0.5.0.zip.part015\n54c54cdbf27e61b248ce56a8f7ee60dd40e49f0ffe031bd43c3d8a1d8819bbc6  ForestLetters-Windows-v0.5.0.zip.part016\n17f618d3a384eab4583536aa37b0a99f0ba5a535a0de4c0ecd065998a45dd1de  ForestLetters-Windows-v0.5.0.zip.part017\n0523f75efc7e6c2784815fc5efcf97a6d2f8d7f248cb2bd732204013fd08d18d  ForestLetters-Windows-v0.5.0.zip.part018\n1b9dc3477cd6dbc3b645cd9ff8ce4341acbe7fd2b9300a2ec9cbcda7cab974bb  ForestLetters-Windows-v0.5.0.zip.part019\n88c84ced31862b0b34708bfb4bd5a1d45eaa9d56193e88c48a07f90440e0dad1  ForestLetters-Windows-v0.5.0.zip.part020\n6b16aa01ddb138fc6229495e61f747cf33293103512035c100cd5d4b145db821  ForestLetters-Windows-v0.5.0.zip.part021\na61d57885b3c36224dffe407d16e841204470f3d800a46513e7bf87cced402b8  ForestLetters-Windows-v0.5.0.zip.part022\n7fd0afc8dff2a7162daef49c2969dc8e07491e669999ee37149dd322ae5e65be  ForestLetters-Windows-v0.5.0.zip.part023\n1a1515da2ed56030448936f5f2542899e8e6bb94609f2cf10a8e838d7f3ce153  ForestLetters-Windows-v0.5.0.zip.part024\n5ed298e64aedcaa7441dc7f8a0958614bc3510e0201b740b079355fc2b74544f  ForestLetters-Windows-v0.5.0.zip.part025\naa4f809b028754d8a909b1173dfe4b3f7df78f031ed0b281bef870678014586f  ForestLetters-Windows-v0.5.0.zip.part026\n9b02f6377a345e9c8328ab667cfc5580ef0cf7c7522d00e12936b99e225b197b  ForestLetters-Windows-v0.5.0.zip.part027\n0585c1b816803b066fbd40cb6a3eb6c68e593ca869ba74296684c800050aee30  ForestLetters-Windows-v0.5.0.zip.part028\n5280d96b2e5f2407204637050cd3714327b7e9dee44fcc39ba0f0a90eca8b0fe  ForestLetters-Windows-v0.5.0.zip.part029\n27fa2c64d6baec8985df4d493d8f2f30f4d865b5d3c63a7a7a34491ad012cfeb  ForestLetters-Windows-v0.5.0.zip.part030\n0abcd47594cb7059f3420d51ef5560e2313bc6d37d38e9a06d2b04526c4c13b2  ForestLetters-Windows-v0.5.0.zip.part031\nfdd2726ce947a0aace826a24a36bdceac80ba04a43a5ada8e1c3bee732d854eb  ForestLetters-Windows-v0.5.0.zip.part032\ndc4c35771f26517c8ade04a1723489b40cba02ff4bc97d7380dd67d8c08e0135  ForestLetters-Windows-v0.5.0.zip.part033\nf812663cc73cf1e50d763212dee2348144d8ea88bbcc25919f995f226716c8cb  ForestLetters-Windows-v0.5.0.zip.part034\n82d22eb3998dc93c708343752f960ac1c263402c908623577f3b951eb7dd06b1  ForestLetters-Windows-v0.5.0.zip.part035\n1f4407997f14265b198324cf687e81fa3aa652328efd67d25b8740f09b2a673a  ForestLetters-Windows-v0.5.0.zip.part036\n2b7fd181b4ae5cd1e66344f8e71b31ee909e3bc945c4ea77926aef5b0cbb3438  ForestLetters-Windows-v0.5.0.zip.part037\n310ffebc7b31dc600ccf43156c3462d9148dcbe4982a891323e59f86af091b43  ForestLetters-Windows-v0.5.0.zip.part038\nc6029654b92b16d2a527c159c2e7fb3daad3fa52ae597c987907221e57787138  ForestLetters-Windows-v0.5.0.zip.part039\n683c5903506512911f0b68632c4bb46e3ae0e67dfd639707566da9e8dd8d978d  ForestLetters-Windows-v0.5.0.zip.part040\na23f7272300a8f7afcb3a681a381cce422ac0840d219bd6814986456adb18f05  ForestLetters-Windows-v0.5.0.zip.part041\n9dfcc7a0305464feaa2b50bc5df7828d96136ed4c14f406e18f7e10133b75d0d  ForestLetters-Windows-v0.5.0.zip.part042\ne44f7725f17089dce29cf0ba445e895b77b84f5fcf8b1e1cf0418f55e02fd2a5  ForestLetters-Windows-v0.5.0.zip.part043\n7ed6422469dd0dfa58ec55f72e0c267fe2e59b1473703f2d6bd5ffebc71dfd70  ForestLetters-Windows-v0.5.0.zip.part044\n77d2886fcdc8bd1a33269dfa6d1c5c34c1b108d5148da08460f814bc74db4070  ForestLetters-Windows-v0.5.0.zip.part045\n50ef1d61509fbba48f2fec0c9b8b98f4b067608b039c41f226aa4ee12ddd75d8  ForestLetters-Windows-v0.5.0.zip.part046\na0da3c5ab922377b51e60afe9954d6a8e25e9aaa0990696b9dbcdb794866d60f  ForestLetters-Windows-v0.5.0.zip.part047\n3c689d2ea705edca83676b5dbda01ccb6b39391f567fb5d3627fbe2f08db707f  ForestLetters-Windows-v0.5.0.zip.part048\nc1c6bb7abc661546ee6f9f79a469ba9e545351fac0d4d92e0fb07aa4a2f133a4  ForestLetters-Windows-v0.5.0.zip.part049\n8a536f648fc89b0640e465a2efbdc57d3f6ea3085dda89a3db1aba4ab245aada  ForestLetters-Windows-v0.5.0.zip.part050\n903cd1bcaaac9109e710396cc601cae49543fb3f9164569a98c6cf7ecbd83eb5  ForestLetters-Windows-v0.5.0.zip.part051\n4812c09bb92eff9b36093b647cc79e0a12ee39d9e8d2644cd9dbb67924ce60e4  ForestLetters-Windows-v0.5.0.zip.part052\n09d23742604d883fd15260b33953aa329eff46ffc2ba81b8cc755699d71a1a99  ForestLetters-Windows-v0.5.0.zip.part053\nf440cce2ff982d7ec9b037eece4e9d380583e575c6340690609de18da4a6d606  ForestLetters-Windows-v0.5.0.zip.part054\ncea560afc6ca101559380058e351821a82378bdd3be1e6192efe4c4e8d3b8e5d  ForestLetters-Windows-v0.5.0.zip.part055\n6f054563e6c5f2b37b4851d0a83fc95d87661042b50dd477c4e8cf6df3a17c54  ForestLetters-Windows-v0.5.0.zip.part056\n76b4e92c73b8df1e66de0f1f0303271f7b905764004793c96710e06974b119d1  ForestLetters-Windows-v0.5.0.zip.part057\nd9781db9ad5f7381d32f109b15a8d59b34d33b8a0c1ff76555e3d1b7111a84b4  ForestLetters-Windows-v0.5.0.zip.part058\n2e6c2dde32d1227bb471c81aafded9043cb4bbb877c642dce1ad5a8fe31813d4  ForestLetters-Windows-v0.5.0.zip.part059\ne77931715d48005ed0ed49dd6ca72df6a04346a25cb02fdcab65f834e05e558b  ForestLetters-Windows-v0.5.0.zip.part060\n91a7c45d11e044233e1ee9c8be022568018ef1943401c772bf6caf89e41a0022  ForestLetters-Windows-v0.5.0.zip.part061\na1a3ff48de1b4e0e0b9a28ee3270ba843bc380263156a291602c92b2402bd43d  ForestLetters-Windows-v0.5.0.zip.part062\n7ee8ac0693e556734f15b2b53bbbe2ba3827d7c9f3a9f9da5d23fd030f2ff1d1  ForestLetters-Windows-v0.5.0.zip.part063\nf3f00218d35a65fcba9f13043e19b0287593c7099c2bd592902ac917051733bc  ForestLetters-Windows-v0.5.0.zip.part064\nf7f4765eee4f5d4d5f1081fcf451b4ba6744342acbb8ce1e8e09f368591e597b  ForestLetters-Windows-v0.5.0.zip.part065\nd0588e085e4fd602fb6ca0c6db7ef4ec4c5ca5626f8766a517352cce033c3340  ForestLetters-Windows-v0.5.0.zip.part066\n258f3984fbb3a39ddbe4082a73374b61dafd8936a31ddbd03d59f4ab87d841ed  ForestLetters-Windows-v0.5.0.zip.part067\n24a5cd777e9edd691382b9f50984f22cff0ce3f60e46a087ea86f174b03f3a17  ForestLetters-Windows-v0.5.0.zip.part068\nd0010f7274b2015b72b4fd9a8126539046712bd51c8328ccf15f087d08af6471  ForestLetters-Windows-v0.5.0.zip.part069\ndd04b667ee1d0971d5966950a63d7d139a717b6a543a95fbd804085950bda267  ForestLetters-Windows-v0.5.0.zip.part070\n3f2d4add9442357e76e8f16cb95a3e0ea8762e3ad05b29034c9d9f51ad96882a  ForestLetters-Windows-v0.5.0.zip.part071\nc2779667f41bf02dd3525955e7e97dda3dec372f35898d3796c02a20aa08e9f2  ForestLetters-Windows-v0.5.0.zip.part072\n070a07ca6fef2aa9a890a4bd07420f57a0008509616f611819b6d5fcb84a557e  ForestLetters-Windows-v0.5.0.zip.part073\ndd44ae7569f4a631f803876e17b13bdf7680d0db4787dbe435ff92002dc6da77  ForestLetters-Windows-v0.5.0.zip.part074\n43c4741103e611d13424fcab9b6926270ba213a4fdd5c936d235886ce82dba8e  ForestLetters-Windows-v0.5.0.zip.part075\n5f5d44461f9d7790ccb464f0a658b8e5eb109c356283e501fe0ff13e578e6aa6  ForestLetters-Windows-v0.5.0.zip.part076\n7dff6023df1ff6ee818a9e2aa60c5aa5674fb69d1fc5835c1326062b0c63ad6a  ForestLetters-Windows-v0.5.0.zip.part077\n437c47ad09e3efb7040a89ed5bef6829277ac2207bb25e887fe6b823b522ee87  ForestLetters-Windows-v0.5.0.zip.part078\nc7ffb38d03f6b1c472dd0fed3d8fba34023c81e4a8e74c673f2f19b329b0c093  ForestLetters-Windows-v0.5.0.zip.part079\na5d75aa2206847dce7b1642678b4ff967f3157a9497f14ab6f6fbf399d2699ed  ForestLetters-Windows-v0.5.0.zip.part080\ne6344e8f6efaaef148d9e39f3a21fe8bac2c40d7e991521321ff117b0d615243  ForestLetters-Windows-v0.5.0.zip.part081\n57a840fd47c08554a681618562b291d60b731b488bfae0016734946d8032d82b  ForestLetters-Windows-v0.5.0.zip.part082\n120bfb7f4ffe545fb1727726aa96004abd3ebd64c2e673ed1431169720a2821c  ForestLetters-Windows-v0.5.0.zip.part083\nfd4bab223365846be53ce3bac83db1d1f426c3e775b1166acf2d0a4e950ee180  ForestLetters-Windows-v0.5.0.zip.part084\n361df7bfceb181ec63792cb8114018c9f30bd1ad1ae452bda396d780bbe5c38e  ForestLetters-Windows-v0.5.0.zip.part085\n577972537c34f9bc05bbbec66419706a54b9bccbf98faf4b29cb08d2b70cf552  ForestLetters-Windows-v0.5.0.zip.part086\n4744fbbcb8172a34370ec1d5d8e94976f565df239b735c6603075042c7f5dff9  ForestLetters-Windows-v0.5.0.zip.part087\ne232d92a849c7c22a1a8bd27d72c502ba706032650503fa6c6fd5154b286c063  ForestLetters-Windows-v0.5.0.zip.part088\n35a6aed4d9fa71cbf3d8171b06d7cf0c22ddc6b4e2fb64218f2dbcb456e8ebf2  ForestLetters-Windows-v0.5.0.zip.part089\n1e4a3cad0a4e5b3fa0d36b2dded37f363cb959d41d71ad2397830134456c7172  ForestLetters-Windows-v0.5.0.zip.part090\nfbb86a11ea9d8b358b1978bb1904e3f02662cc12cde46c373034d1c04cd58d28  ForestLetters-Windows-v0.5.0.zip.part091\n88c93812544a41172ad3705c62ad2ce4fe9bad3e270f8abf8092fe0d9efadd33  ForestLetters-Windows-v0.5.0.zip.part092\nb289410d3122ac0478816679e1682c583ed802b708f3342bc29cf05b47090097  ForestLetters-Windows-v0.5.0.zip.part093\nc374035dc288b9461080310157b008d275796d76815d5232ecb087648da3cf06  ForestLetters-Windows-v0.5.0.zip.part094\nb9eb52fd798ebcac10fbbb26d3d0da0e39c786efdee4fb15f844fae376c51c9a  ForestLetters-Windows-v0.5.0.zip.part095\nfb971505a5f4ae86a059ff397941f9e93d51f96be16617ce91c8b2f7ebad3817  ForestLetters-Windows-v0.5.0.zip.part096\n4f95f8c7a15053e9ca8a7fb52efe2580f36a3d640e4bfc80706a07a69fe41428  ForestLetters-Windows-v0.5.0.zip.part097\n7e794e8d3b80a5e3638a9e15e102a8a24b5bf22239735a08037ae11784d80d93  ForestLetters-Windows-v0.5.0.zip.part098\ncb817e1894d1a2eef2e807539712f2efc82ee2629b4e677ef9d9d9fa6e283dd3  ForestLetters-Windows-v0.5.0.zip.part099\n4834feb844350546c17280156d942e095e9b9a5a1a453749a2e158f0e26b19d4  ForestLetters-Windows-v0.5.0.zip.part100\n703cfb662f4ce011daacbc38ed6ed72051f3fa7de7a6d788a4e7d1bece5978a5  ForestLetters-Windows-v0.5.0.zip.part101\n361e54d859cc475fbf2d165fec6773a7c5ce3a326b5248f6221c0871fd1c9e2a  ForestLetters-Windows-v0.5.0.zip.part102\nadde88d30fdebcb172623e011f4997dd185626b41d5bc4e0ffd2c3999923b338  ForestLetters-Windows-v0.5.0.zip.part103\nfc66bd15727386ae72c403035a153833e8ab667f65bf92e4588841d35519eedc  ForestLetters-Delta-v0.4.0-to-v0.5.0.zip.part099\n99c5e4a66ce06a5e2cd744d8a0876bed0e8acf2ab2d58c2924eaf501a3500026  NoctisLauncherSetup-v0.7.0.exe\n6e9521b54a388b33b02ff126a913695b7600a820f9d9b8d61f50642bad993079  delivery-manifest.json\n"
+    }
+  ],
+  "sourceHosts": [
+    "noctis-forest-download-aa.xiaoandy16.chatgpt.site",
+    "noctis-forest-download-ab.xiaoandy16.chatgpt.site",
+    "noctis-forest-download-ac.xiaoandy16.chatgpt.site",
+    "noctis-forest-download-ad.xiaoandy16.chatgpt.site",
+    "noctis-forest-download-ae.xiaoandy16.chatgpt.site",
+    "noctis-forest-download-af.xiaoandy16.chatgpt.site",
+    "noctis-forest-download-ag.xiaoandy16.chatgpt.site",
+    "noctis-forest-download-y.xiaoandy16.chatgpt.site",
+    "noctis-forest-download-z.xiaoandy16.chatgpt.site"
+  ]
+}
