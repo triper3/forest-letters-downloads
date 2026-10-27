@@ -22,7 +22,7 @@ def run(config):
     assert os.environ['GITHUB_REPOSITORY']==REPOSITORY and config['repository']==REPOSITORY
     token=os.environ['GH_TOKEN'];opener=urllib.request.build_opener(NoRedirect())
     def api(method,path,payload=None,data=None,name=None):
-        assert path.startswith('/repos/'+REPOSITORY+'/')
+        assert path=='/repos/'+REPOSITORY or path.startswith('/repos/'+REPOSITORY+'/')
         url=('https://uploads.github.com' if name else 'https://api.github.com')+path
         if name:url+='?name='+urllib.parse.quote(name,safe='')
         headers={'Authorization':'Bearer '+token,'Accept':'application/vnd.github+json','X-GitHub-Api-Version':'2022-11-28','User-Agent':'Noctis-Public-Release-Transfer'}
@@ -37,7 +37,7 @@ def run(config):
             if len(part)<100:return rows
         raise ValueError('Pagination boundary')
     prefix='/repos/'+REPOSITORY
-    repo=api('GET',prefix+'/');assert repo['private'] is False
+    repo=api('GET',prefix);assert repo['private'] is False
     release=api('GET',prefix+'/releases/'+str(config['releaseId']))
     assert release['body']==config['releaseBody'] and release['draft'] is True
     path=prefix+'/releases/'+str(release['id'])
