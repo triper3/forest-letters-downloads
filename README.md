@@ -1,11 +1,12 @@
-# Forest Letters downloads
+# 林间来信 · 游戏下载
 
-Current game: **0.6.0**. [Download the current release](https://github.com/triper3/forest-letters-downloads/releases/tag/v0.6.0).
+当前游戏版本 **0.7.0**，启动器版本 **0.7.0**。
 
-The full Windows package is 3,306,215,058 bytes in 158 verified parts. Whole ZIP SHA256: `7b53a0c8e22f0b2b62928b01e1c44563d3c8ea3acb509ab8bb71c9a7ce0bad3d`.
+- [当前游戏下载（0.7.0）](https://github.com/triper3/forest-letters-downloads/releases/tag/v0.7.0)
+- [启动器下载（0.7.0）](https://github.com/triper3/forest-letters-downloads/releases/download/v0.7.0/NoctisLauncherSetup-v0.7.0.exe)
+- [SHA256SUMS.txt 校验清单](https://github.com/triper3/forest-letters-downloads/releases/download/v0.7.0/SHA256SUMS.txt)
+- [游戏官网](https://games.soldavia-demo.com/#/games/forest-letters)
 
-This public repository contains game binaries, public SHA metadata and generic verification utilities. Product source and editable artwork stay in the two private product repositories. Automatic GitHub source-code archives here contain these generic utilities.
+本仓提供游戏二进制、下载元数据和校验值；产品源码保持私有。请使用发布页的 `SHA256SUMS.txt` 核对下载文件。
 
-Only the latest managed game payload remains available. Older release/tag references are retained with their binary assets retired. Sites historical archives are separate and have not been physically deleted.
-
-Use **Verify current06 public release** to verify all public fragments. The old05 probe/transfer/verifier jobs are disabled. Standard hosted verification writes no whole ZIP, Actions artifact or cache.
+当前下载通道仅保留最新版游戏包。历史 Git 提交、标签、Release 记录和 Sites 归档继续保留，未声称物理删除全部云端历史。R2 未使用，本轮未新增付费服务。
