@@ -1,0 +1,829 @@
+{
+  "repository": "triper3/forest-letters-downloads",
+  "version": "0.7.0",
+  "gameSHA256": "df89c314687ac29f1c75e3f2d8f251a92464eb07d60cb24da98d101f6ed840c7",
+  "gameBytes": 3336395149,
+  "fullPartCount": 160,
+  "assets": [
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part001",
+      "bytes": 20971520,
+      "sha256": "6a6ac965f6a7f24349b885b6f91c8c5ed6dccc3eafaaa3bd96e5f424429477f8"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part002",
+      "bytes": 20971520,
+      "sha256": "63034ac73fef478ccbd20d226ebf492a1bd67cdd826fe81d15e2ae6f343bf244"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part003",
+      "bytes": 20971520,
+      "sha256": "bb2d5d08366fa97fe13de933091400878d4ef423b9afce3af0dd051252caa79e"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part004",
+      "bytes": 20971520,
+      "sha256": "a484570198b2a25e4b173b32a917d83e2379ddd92df46a52b155acaee58a6494"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part005",
+      "bytes": 20971520,
+      "sha256": "6164b716e3f085919a1ff26435ae6a5ea1f7ac1e8ccee893a650bcf91a76f3f2"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part006",
+      "bytes": 20971520,
+      "sha256": "3f59757bf8e5f04d2ecf9a6a567fb17632eb1623b71de38eca4e2b5bb5976acd"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part007",
+      "bytes": 20971520,
+      "sha256": "d528830d7c7604fbe1bc9b7722bbfa36242fb6e16648e574a228fffab458787d"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part008",
+      "bytes": 20971520,
+      "sha256": "edb4263260d1f2d61bd3080e4917f6335311078abb4a5e2ba59cf09473356c71"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part009",
+      "bytes": 20971520,
+      "sha256": "c039b4c474edeaed13b8c7f6fbb37eec4d693bcfe6561cddd886c202b29f3bd2"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part010",
+      "bytes": 20971520,
+      "sha256": "bb55b8ae1997dacddf9ccf2dc3a706fb3e8aff8108ccbaf288b6264dae20d780"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part011",
+      "bytes": 20971520,
+      "sha256": "35ba8dcbdbf3e50ea2bf9938d8ed91686fcd20339f6fa99ddfa01b21d9658d4f"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part012",
+      "bytes": 20971520,
+      "sha256": "5fd9598e8596cd23ce0d047b6021cee46c6f99935cd941599d22834917a14fb2"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part013",
+      "bytes": 20971520,
+      "sha256": "029dd7883c7ade3b7dbc6eec0decc443dfb6cdab50e15930147c8b6d45765c9c"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part014",
+      "bytes": 20971520,
+      "sha256": "9b0acd89edcc0c79a459b27d7c6baf2af0877e1a6007a7a217550ec046b581c5"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part015",
+      "bytes": 20971520,
+      "sha256": "ec4349d7b2f0f54cd6e2ac2e95731cca9ec7b81bafdad192ca8610cadf46128e"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part016",
+      "bytes": 20971520,
+      "sha256": "cb331d981edd51d10d059175cad25d1fa4144793912527bf7baafdaa479cf32a"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part017",
+      "bytes": 20971520,
+      "sha256": "7c70ce28d0b67c2fe212765900572781dc3d4e3d3abfeaabc649b8be8f79f161"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part018",
+      "bytes": 20971520,
+      "sha256": "5168b3c2723790d704f5ac55e619a02e0be787c67770c6a6b0017a216f7ded48"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part019",
+      "bytes": 20971520,
+      "sha256": "6328d30bfa43559745e5b88c7c1fdfe8e7d76abfe3a4e72509f2ae415c3a1e3b"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part020",
+      "bytes": 20971520,
+      "sha256": "6e4f42d0789f184890dcceffe27be5ce9ebae110e45c85189f02271bde540d56"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part021",
+      "bytes": 20971520,
+      "sha256": "bdb878d056fbaf1c9cb705a258f728694d50995efd8871b95e2baf852b750115"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part022",
+      "bytes": 20971520,
+      "sha256": "b1afa8e4a55568d2afdd53a551100f68839c3f9406ab5f6731336dcb8e3a2e3c"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part023",
+      "bytes": 20971520,
+      "sha256": "a4fb9665c53b8edcca580e86e14b7194a07fa81c62a7d064bfd2b33020273371"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part024",
+      "bytes": 20971520,
+      "sha256": "10162d4322e1cfb494a9840c62c262edf9e81be78bd56a72b453af3465adbacd"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part025",
+      "bytes": 20971520,
+      "sha256": "1757881fdee11316b2c986a7a71ba7595473fbc998aec17ab542fc852b4bdfb8"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part026",
+      "bytes": 20971520,
+      "sha256": "a507587e69856362bada3067a890439bb494e8884c439f2046dac20df142ee99"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part027",
+      "bytes": 20971520,
+      "sha256": "33a8880510f5f7576598978aa27db49fbf578b959d4d4e33b0fda02ecf157ebd"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part028",
+      "bytes": 20971520,
+      "sha256": "fd4a1a6d56e774161b0f9d0786e6cc072226286c1e282d9732711280a5f6a0ae"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part029",
+      "bytes": 20971520,
+      "sha256": "c56018066edbdf95ba73e7f270dd0acf15a6a5871b030fa39777741165860914"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part030",
+      "bytes": 20971520,
+      "sha256": "fc013707e5c82aeae02a8e781f68a0de11b8142bd8e4838c81aa2c3f4f60cc38"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part031",
+      "bytes": 20971520,
+      "sha256": "2f57203f1c6755d7601b5f3b33facf89124673ce65c13818488fd6b3bb255ba7"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part032",
+      "bytes": 20971520,
+      "sha256": "99b0d73a9123b6c0dc7a54a5e44ebd841a7f6abf1b51ee2e3346fc1b06a6fa2b"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part033",
+      "bytes": 20971520,
+      "sha256": "ffd748350816475ca57404bcc3de0baa9df6b1d2715f5ccb8e69eeee6ef3be83"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part034",
+      "bytes": 20971520,
+      "sha256": "f676987e6e4b0ffe7c3f2c1b104c1cd2e828eb60e4cc2fb4566b8421611cb0ba"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part035",
+      "bytes": 20971520,
+      "sha256": "b0484503a080076614d98de63b0f1d7cd2658226ba25a34285cc7c7b94fc05ff"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part036",
+      "bytes": 20971520,
+      "sha256": "ffc2d303d72bb4b6ca0ce4ff39de8178c170e4a7aa2679b8c58a5e98a12fcd39"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part037",
+      "bytes": 20971520,
+      "sha256": "d68ba686903688bec8e5b53165c548c1000d84ba08bb2d1ddecc286670ef1278"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part038",
+      "bytes": 20971520,
+      "sha256": "6c9d09e65c0c94635d8206a6ac5d23d22cbebe72f777f2090cb22559e342677c"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part039",
+      "bytes": 20971520,
+      "sha256": "d552a6f2e0f0421c1acf961e5adbe89f4368e2ecf5f9108c2725e64a6b64a833"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part040",
+      "bytes": 20971520,
+      "sha256": "21ae59a8a23fc762887c58476c804d30599e0fdb21c2ae3151019dc548478e82"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part041",
+      "bytes": 20971520,
+      "sha256": "06127caf2c330d12c5b49c48ca3319d54ef2cd28276c120d033fdc548fcb0d72"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part042",
+      "bytes": 20971520,
+      "sha256": "ff7c1c2da88a490e059fd8ee6ada536ee4c4a5fe7b9d484571b3dbeca0039727"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part043",
+      "bytes": 20971520,
+      "sha256": "23fe2d1b441d99aab8accc12031c964cce1ce3ba990a83952d544a434423854b"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part044",
+      "bytes": 20971520,
+      "sha256": "7fc8061c687b64438f06ef95d06758882c96d96d2f98b1998d5bcf49f8f0ce7c"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part045",
+      "bytes": 20971520,
+      "sha256": "53a9337081a2295476f1e839f8f37ffec75c40ab41819c659ccf15da8fc2223a"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part046",
+      "bytes": 20971520,
+      "sha256": "82d9188ca77e31e172ebf4f7cb3d80adadb21cb5fdc580a6f87b3505ba1d8daa"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part047",
+      "bytes": 20971520,
+      "sha256": "dfd0a49a55bfe0361ce1b125780b96f31b3b80cf05bee3a4ccfdad9d1a76f5ec"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part048",
+      "bytes": 20971520,
+      "sha256": "fd0c3529f18952e5eea4ba771036b6a30f897260c9f90721c0eb50f7b4ed7ab1"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part049",
+      "bytes": 20971520,
+      "sha256": "cf77944e465c3dd56ff619960fefefcd41ff961819180de4598c304c3337dd4d"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part050",
+      "bytes": 20971520,
+      "sha256": "cf72a978e47f7870546863aeffe3f91fbe5e53a3fc794d26bf398b82b3931ecb"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part051",
+      "bytes": 20971520,
+      "sha256": "feaefaab3957eddd4a6473e0898a42a06f8d3910449c7d5a058568d8cb3120e1"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part052",
+      "bytes": 20971520,
+      "sha256": "6c8eb5ff91e6463be8eaff846115cdd169fe3673cd87aceeb41b5a48b9732471"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part053",
+      "bytes": 20971520,
+      "sha256": "dbc3dc30d10ebd35c8c8a32289c944e4b7d765689e2621dfe229c058195c55df"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part054",
+      "bytes": 20971520,
+      "sha256": "0b16f1812e86017e0135a94329ba5ae07ad1e034691fda80526d3f156d99fa77"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part055",
+      "bytes": 20971520,
+      "sha256": "a7f7d3f875d1feb22ed0971a52b9a5bd050287b6c1194428e5a7c973deb9ac9d"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part056",
+      "bytes": 20971520,
+      "sha256": "a4aa7755acb62417fd6d327f14ddac09b317b57f1a4ab21991589322e4389796"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part057",
+      "bytes": 20971520,
+      "sha256": "75c8776824a3e75f8feb6a1865590f353d4f1d4f5a59adc239a614f41c541c6c"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part058",
+      "bytes": 20971520,
+      "sha256": "df6eb0b0fd2d7bbfa09fc27dda62bd965fc65c840829ff1602a9ca10fa9c9e4e"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part059",
+      "bytes": 20971520,
+      "sha256": "205fca6be5c32a240231dbafccd053f9eae02774022480f605a73e71e8958e55"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part060",
+      "bytes": 20971520,
+      "sha256": "921e4dac976210e9f15c80fbb10411a6bf848a771f84cd27531bb21179af4d15"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part061",
+      "bytes": 20971520,
+      "sha256": "6799727dabcca8d935391c41f2ad6c2c2b571d867a29c6144e67878e8a80de15"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part062",
+      "bytes": 20971520,
+      "sha256": "a13d430731eb345b43320046bed526bfcc807a9a03720354daeebb282b6493ca"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part063",
+      "bytes": 20971520,
+      "sha256": "513231bdd9dc488cb3bfa1756b24879ebfe55df4a316450fcaeb1cfffa4559e3"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part064",
+      "bytes": 20971520,
+      "sha256": "1b80cb4b22406853a4a798cd76e336eddde10dc643734c0eb4c79f1c8982e6b9"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part065",
+      "bytes": 20971520,
+      "sha256": "97ff0ad9fd797effcab0ec80653e447972a18609dabbd8343e7e4b3cb0f16ccc"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part066",
+      "bytes": 20971520,
+      "sha256": "1a6dd25a37e65fa9cabfa86d25384d49691d74c9f9ef6e6229cc83b77f98eee5"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part067",
+      "bytes": 20971520,
+      "sha256": "76975495ffd3deb955c28788f48774171ecea4aaaf05c7ba5ada80de38e6f8d3"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part068",
+      "bytes": 20971520,
+      "sha256": "286a2c223d7351f14d5dced36f7189360920ba89121d62b0033f269789a3482f"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part069",
+      "bytes": 20971520,
+      "sha256": "7ac60bf99a0e6f0c9b914d3d293f99867082c6b2f78bcb474f571b1c55e11dd7"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part070",
+      "bytes": 20971520,
+      "sha256": "04a5052c3cc20598336d60f17c23a9529224781922045eba53b1b3346f2d9279"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part071",
+      "bytes": 20971520,
+      "sha256": "b4a4bc20ef41d4dfbd722eb7c3c28b84a24d8a5c186d6eda7c2481ab6764f2cf"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part072",
+      "bytes": 20971520,
+      "sha256": "9fc32b67c343f862eb61fafd0734bcf7d76fdd5dddc631d9bc0412b0d6f95efd"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part073",
+      "bytes": 20971520,
+      "sha256": "021a87d6dc6547a36f79695d4ad1493701a1ccf9300dc4222045a6e3e2cf7882"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part074",
+      "bytes": 20971520,
+      "sha256": "919bbdb1f2a3caf64db7b10c11c42e65a51993c8efd527315f9a06f1439cf7d0"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part075",
+      "bytes": 20971520,
+      "sha256": "ae397831cacc1a7c065035b7499e4abc5feeb5eb50c0bd3824659a1a0e5bec0b"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part076",
+      "bytes": 20971520,
+      "sha256": "5fe8d82c36341d1913a5aa9b7c2aa6f1d45978b51712a08dade5b5b0533cda10"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part077",
+      "bytes": 20971520,
+      "sha256": "db64736d5f73e368cf9c2c8c16c957457f1fd86a3e9699f7dc273da49ec64ebc"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part078",
+      "bytes": 20971520,
+      "sha256": "844dbc6bb22809f48bebfba4cb23633a64b193c2674c22b536d795881ef87c08"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part079",
+      "bytes": 20971520,
+      "sha256": "f8af7e6d1e29e5e9738802872b24574cb9254062d9d24e0f1ad7c40958e51ed6"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part080",
+      "bytes": 20971520,
+      "sha256": "3e94e8398dee3f2f3b56578e08e72f45e46107d842217fe335843585e5c88e3a"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part081",
+      "bytes": 20971520,
+      "sha256": "67e8af54f5d8d20575b6f45ffbbfaff21c71bdaa0e2dae063109100f8d88fd01"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part082",
+      "bytes": 20971520,
+      "sha256": "3c04a7cfbaffc082bec84796a482b4c120b06e5ea482efc933cf7a46478b4d65"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part083",
+      "bytes": 20971520,
+      "sha256": "cbe81d07344bbeef125f279880c405a51c6b3f9994ced3cc033e10abc7372334"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part084",
+      "bytes": 20971520,
+      "sha256": "b026428e8deab98b5edde302da7daaadba5e4de03cbbf3a2cb35ac60fdec90b3"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part085",
+      "bytes": 20971520,
+      "sha256": "3d26b984a586d5517651421f5443526ba53a1a2dc2d9d56aecefb72400c530d3"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part086",
+      "bytes": 20971520,
+      "sha256": "a064c4d154bccf163116dfccbf2b1ef5ccaf99c716208e578de9bb740ca2a6fd"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part087",
+      "bytes": 20971520,
+      "sha256": "abedc1cc6d7f009b0be359909b7c4e151fe9c4e2fba57793b6d724a75a52f52a"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part088",
+      "bytes": 20971520,
+      "sha256": "32441576d83b34727d59f35145e47b83630be585c4dd638c7d8bbcfa83776348"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part089",
+      "bytes": 20971520,
+      "sha256": "f6955abab21942fc9fc310c2a625b79f68e3ad44ce114c1d2aae63839acc9a80"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part090",
+      "bytes": 20971520,
+      "sha256": "79fda52eabe32ea8a499b16cf5c13a0efae1b5185640b83786cb0a81c2df73c5"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part091",
+      "bytes": 20971520,
+      "sha256": "fddb2f2ba6584290d1e8f90c45690be2df2b130b9f5054d2147a47ed65b5ffb8"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part092",
+      "bytes": 20971520,
+      "sha256": "1ff508845e3d1f7fab125e0f390f1896384ce77bc9ecab8e3b46f80a278b5ca0"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part093",
+      "bytes": 20971520,
+      "sha256": "9735be719999e05e8e4185ddde60ad1b9aa3b3431f208cd2899d10ddef7a3bb0"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part094",
+      "bytes": 20971520,
+      "sha256": "83c6a593e61427de2361ef87b6b023eb054a4005b5159b215bf6f4b03673f73f"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part095",
+      "bytes": 20971520,
+      "sha256": "3de76ac03f45a03c0853d6800d53688255023897204dd406b406102f167503ba"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part096",
+      "bytes": 20971520,
+      "sha256": "5da72d73922c991afcf568f17708e51d0ec6f64fb2fc24a12ccaaf56fdc6a542"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part097",
+      "bytes": 20971520,
+      "sha256": "fc12bc5c15d054c5d1e5d8e99460fe8f2ef059f3767b6e60750b7b90e7936dff"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part098",
+      "bytes": 20971520,
+      "sha256": "255b54ec951c7b3beac05f152d4847b58de8f522890206b72cdd42c28f3b698d"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part099",
+      "bytes": 20971520,
+      "sha256": "eba0fb6319bb3a7e4ce766d19059e61ca9edc10614617489efb436c2ebfd7f6a"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part100",
+      "bytes": 20971520,
+      "sha256": "4187d1d40e73e836accb117d0045b9649026f3cd2ccf8f37868313b478d55667"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part101",
+      "bytes": 20971520,
+      "sha256": "e7d075feb8bfb66dbe7dc4c4c2cc8867a662e4f082a8283ec318f5191c62edf7"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part102",
+      "bytes": 20971520,
+      "sha256": "f04d9679e201a2a9cfd80ac6aeef10019e8d1f07ce89782b14568f6e91c60913"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part103",
+      "bytes": 20971520,
+      "sha256": "c9ded9a1b5385c2563c6bd69dbcdf46aa1669d2883b2cc5831825ab5289f8d84"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part104",
+      "bytes": 20971520,
+      "sha256": "731c9585eba32993e7f1de680d74f4530eb5c7bb11f03df592587576ed912662"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part105",
+      "bytes": 20971520,
+      "sha256": "15067b8896311b60bfb4690d6cb3167e10fbbc32f03dfea77580a8038c45c8f3"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part106",
+      "bytes": 20971520,
+      "sha256": "7efdd4f57c0d9e6f7a59b97fecee94d09b460bc0fff27d9a513779e599800c6c"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part107",
+      "bytes": 20971520,
+      "sha256": "6f44f262cae79433d4c1e84fdd97bcc587b0ee0ba66461b0ec053c1e19af5892"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part108",
+      "bytes": 20971520,
+      "sha256": "adebe85765a0060341ea5acc54b8b9b88b34b2f22f00cab027d511f46f11402d"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part109",
+      "bytes": 20971520,
+      "sha256": "2e26f47023dc95fd23d5ee45090ba18a24373fa73ee677657da66a8a9a3ae0be"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part110",
+      "bytes": 20971520,
+      "sha256": "6a58ad5da8d949ecb9b8a0580956e1111410ebe465e52ded2e470be668f69bbb"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part111",
+      "bytes": 20971520,
+      "sha256": "4de21a864f9f2824a0de12d73345d82dd05456a626b8ce3304aa11a253353c06"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part112",
+      "bytes": 20971520,
+      "sha256": "5c51b4daae997df04fdc21cd39a8181f563df9ccdcc38216c39f7281c8d645a9"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part113",
+      "bytes": 20971520,
+      "sha256": "3dd0c0cde7e42faf4e5dc8bb3e925e8531c34841f5bfd7707048b71fe27cb5ba"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part114",
+      "bytes": 20971520,
+      "sha256": "2fa5ff0da99a03a4d774270078b599031c29d8c274d5ec5540d245b92695bb58"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part115",
+      "bytes": 20971520,
+      "sha256": "cbda1ebd2eb83b278515dd4aac7190e9eeea08c32a5f635afa1e07832841f352"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part116",
+      "bytes": 20971520,
+      "sha256": "1251a065a9d4db16f2f419e019e166fb7bc26d3c193072d0d653bef802d53bb5"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part117",
+      "bytes": 20971520,
+      "sha256": "724b0ebc8fa013d79cd257cd0563fccc493af1a900aaf8a50d2e5aa9fca8b228"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part118",
+      "bytes": 20971520,
+      "sha256": "35573cd9945e3d5d1a8f87593a2d4f6b3b4368bca3d7dc556fae93be434152f7"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part119",
+      "bytes": 20971520,
+      "sha256": "0200877ffcb84eb94ff7d4bf0bec7223a2f9c6d936acdf9220552b6b8a0a73a0"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part120",
+      "bytes": 20971520,
+      "sha256": "7f03d650088a414186301530e67446c0cb3f2be28be37e279380c4c01f059b72"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part121",
+      "bytes": 20971520,
+      "sha256": "0e096fa6f8066fb6e0c616c41a9c3eb48a00aaef1f9a03a723e268198b50075d"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part122",
+      "bytes": 20971520,
+      "sha256": "25500675cecd5b56d59ae518d945f87f4da30fb62d20d691cdeb28986e7c7743"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part123",
+      "bytes": 20971520,
+      "sha256": "aa2cad3b5120b64df7d4326c746d6ab3b9a080b7c0afe7ca1044ff1845490ed3"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part124",
+      "bytes": 20971520,
+      "sha256": "9c5277f9fb21cdea6cfb74618ac99c3a732818a360717f668107df81e4fdc7f9"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part125",
+      "bytes": 20971520,
+      "sha256": "256c31d8ad1e0da64c6787e7b0c3f88b60a3443d8704b1a1b7ccc85190b7cb42"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part126",
+      "bytes": 20971520,
+      "sha256": "549faa54d1c243277f4e4103a20d6c3016564975115e2708eeca371526350016"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part127",
+      "bytes": 20971520,
+      "sha256": "58a443e90c5b15bd07cadb52b190c9cd837420f4b854e3a7e9c69abea752b46d"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part128",
+      "bytes": 20971520,
+      "sha256": "367e363fa5f935198ea654c7fe14d3a8f39133728cbf4d123f83d7d7fa687350"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part129",
+      "bytes": 20971520,
+      "sha256": "32fcce1721255c233e958b980ca54bf5b8719684c8b85598fe95624f259851f5"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part130",
+      "bytes": 20971520,
+      "sha256": "2de8a41a9f837bcf45c72a29405440b8638d7ff5b6d992e12942543c3670f6c1"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part131",
+      "bytes": 20971520,
+      "sha256": "6a8b497ed7835113147718501ef00689d3d39018ecac6a27e3a4d14bb1395855"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part132",
+      "bytes": 20971520,
+      "sha256": "780f5a828088aed4d5e7e7eb56f7d89bfe54dd72ac47b322739efa9899573f3e"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part133",
+      "bytes": 20971520,
+      "sha256": "9b08adb382ce1e026d94e8997756ab7a8afcd493bf0d38e6e3c08a955c416a7c"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part134",
+      "bytes": 20971520,
+      "sha256": "2a019128408b029e8d8e75c0f4675f4678877745cddca12abbcb5f1d9e0ac5e5"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part135",
+      "bytes": 20971520,
+      "sha256": "911e286dede6a8b088bd75e4f5645bae2168ee6c751a8574098329acd67166db"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part136",
+      "bytes": 20971520,
+      "sha256": "068b193a957108d92778d9a94acc528af2aae82d91727b66c99450ad556a283f"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part137",
+      "bytes": 20971520,
+      "sha256": "1246df13f72f46858122a10a01475663fa27bf285a873a2c51f8eb7500553517"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part138",
+      "bytes": 20971520,
+      "sha256": "48b847de273ea58d8aa4d04b9cf467be5ee36c0b75fa4c1f0d48098fe86ce463"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part139",
+      "bytes": 20971520,
+      "sha256": "b8ee5fbf08dc807f65de7fc64c44a8b1ec6c1b5010acbb1dc4da11a672ce7bfa"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part140",
+      "bytes": 20971520,
+      "sha256": "31f4026208162e3aa5ab08e558355e9c2ad77e2f9e8f4ded6d6a0bf803aa94ab"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part141",
+      "bytes": 20971520,
+      "sha256": "1b14eb435c169f62e1c35f9c543d4595909660e31b9d788c83dbb04144b48b38"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part142",
+      "bytes": 20971520,
+      "sha256": "6365fc7324bda130f1c37f33703a69c6da6283a5459d7fd333ad59aeb71a4faa"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part143",
+      "bytes": 20971520,
+      "sha256": "064477146cc0a26f32b128a52da52cf3136fd57adb3d1c22ec830492b6a47ffc"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part144",
+      "bytes": 20971520,
+      "sha256": "71274b79b1eebd24c8a5b53464883262ac6e238a7b96318157829d1723e98870"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part145",
+      "bytes": 20971520,
+      "sha256": "e9bd49c4997359d1ae4e40ad4928acd01878a6aa8dbba50fec534846b1f27cd5"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part146",
+      "bytes": 20971520,
+      "sha256": "6c4ea96585dc0ae418b2c5603dced28863550727eaa7b1dfbc22675dda2f75c0"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part147",
+      "bytes": 20971520,
+      "sha256": "146f04acfa1e8a3ed8e84bacfe99770701370f0925064ba1d4a289af2c60a48d"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part148",
+      "bytes": 20971520,
+      "sha256": "f0c546b01a7a3318b8e822c003fd7aa635e94c6f0191e16b95cb58acfc8a4ecf"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part149",
+      "bytes": 20971520,
+      "sha256": "f194584a035100b9bf11746ab8ea7048d54fca0925b3ce88e8e534cfe748fde4"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part150",
+      "bytes": 20971520,
+      "sha256": "d723c6a2b1d9ffc77dcf8d5ca56dc97c49186d228f2b7cf30dc89dc7ee3c573d"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part151",
+      "bytes": 20971520,
+      "sha256": "12ce8a4703d274e98b21a918e95af61f0354e63d331c775b541632b951d27e88"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part152",
+      "bytes": 20971520,
+      "sha256": "5b9194a0c75329f8804e2f6105980f8473b077a090f72ef6135319fffa1dffb4"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part153",
+      "bytes": 20971520,
+      "sha256": "4c0212c584349991d392e3a8dc0be40f840f2a66e19a0ae4d524a9bfad51df3e"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part154",
+      "bytes": 20971520,
+      "sha256": "21b8c4f854dd53c6b18ddf16c4b65dc7efa54c0b1be9ac931cef0f9b83ab3dc4"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part155",
+      "bytes": 20971520,
+      "sha256": "f1a6d59d47fbe32f0ecb26d3b62c1d5d8641288413ff4581995d66348fc71824"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part156",
+      "bytes": 20971520,
+      "sha256": "49433f176221306931c2216b89d6f8cf426147bae7dfb2b0daaacddbc8f68950"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part157",
+      "bytes": 20971520,
+      "sha256": "a23fa579ba882ed7c78c1125c7dc8831da88cef4d284657795cc1b04502d8e72"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part158",
+      "bytes": 20971520,
+      "sha256": "f57224d9202401eb7517aa5e4e97c89217fdf162a406b4aec3ae1c7967ae6f32"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part159",
+      "bytes": 20971520,
+      "sha256": "04d8c55fb20140347bbb039012b1b6c518636a94623c4b58364ccba713f32a75"
+    },
+    {
+      "name": "ForestLetters-Windows-v0.7.0.zip.part160",
+      "bytes": 1923469,
+      "sha256": "27d7ccee03784404cf653098a6bd23144c2e3db82677cd808321204d0a0f9ae1"
+    },
+    {
+      "name": "ForestLetters-Delta-v0.6.0-to-v0.7.0.zip.part153",
+      "bytes": 17001422,
+      "sha256": "7b3da99f966d14c62893b7bdb5b0c6f7298a435f3ecbf60c086277faeeec6ce3"
+    },
+    {
+      "name": "NoctisLauncherSetup-v0.7.0.exe",
+      "bytes": 2472448,
+      "sha256": "99c5e4a66ce06a5e2cd744d8a0876bed0e8acf2ab2d58c2924eaf501a3500026"
+    },
+    {
+      "name": "delivery-manifest.json",
+      "bytes": 38527,
+      "sha256": "044918b425b695026f36536e73880535e19625f4dd63909a7725b0c865644881"
+    },
+    {
+      "name": "SHA256SUMS.txt",
+      "bytes": 17421,
+      "sha256": "3437856c67efc9ef4b127e013898a0102b656d252103d8cda9821c7b98f5a016"
+    }
+  ]
+}
